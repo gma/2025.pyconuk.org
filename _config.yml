@@ -13,14 +13,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: "PyCon UK 2023"
-description: >-
-  PyCon UK will be returning to Cardiff City Hall from TBD to TBD 2023.
-  More details coming soon!
+
+# When changing the year, please change it in the title, above. We can't use vars in vars.
+con_year: 2023
+con_month: September
+con_start: Someday Xth
+con_finish: Otherday Yth
+con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
+
+# Ticket prices should include VAT at 20%.
+# If VAT is no longer at 20%, the ticket page needs updating to reflect that.
+con_standard_ticket_price: £X
+con_individual_ticket_price: £Y
+con_unwaged_ticket_price: £Z
+
+con_location: Cardiff City Hall
+con_director: Ann Barr
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2023.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PyConUK
-github_username:  PyConUK
 
 # Build settings
 source: src

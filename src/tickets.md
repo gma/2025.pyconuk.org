@@ -23,15 +23,15 @@ title: Tickets
     <tbody>
       <tr>
         <th scope="row">Standard</th>
-        <td>£TBD</td>
+        <td>{{ site.con_standard_ticket_price }}</td>
       </tr>
       <tr>
         <th scope="row">Individual</th>
-        <td>£TBD</td>
+        <td>{{ site.con_individual_ticket_price }}</td>
       </tr>
       <tr>
         <th scope="row">Unwaged</th>
-        <td>£TBD</td>
+        <td>{{ site.con_unwaged_ticket_price }}</td>
       </tr>
     </tbody>
   </table>

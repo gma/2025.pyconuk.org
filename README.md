@@ -1,7 +1,8 @@
 # 202x.pyconuk.org
 PyCon UK 202x website
 
-If you're starting with this base, you'll need to update TBD wherever you find it with the appropriate dates and times.
+If you're starting with this base, you'll need to update the dates, etc in the _config.yml to reflect those for the current year.
+You probably only need to care about the stuff that is called con_<something>.
 You'll also need to put appropriate links everywhere you find "There will be a link".
 Also, don't forget to update the 'Schedule' link in the header when the schedule is available.
 

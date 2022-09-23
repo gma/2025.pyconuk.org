@@ -9,7 +9,7 @@ You can email the organising committee at {{ "pyconuk@uk.python.org" | create_ma
 
 PyCon UK is organised entirely by volunteer members of the Python community in the UK.
 
-The conference director of PyCon UK 2023 is **TBD**.
+The conference director of PyCon UK {{ site.con_year }} is **{{ site.con_director }}**.
 
 The conference is staged by the **PyCon UK Society Limited** (a company registered in England and Wales <a href="https://beta.companieshouse.gov.uk/company/10073469">no.&nbsp;10073469</a>) on behalf of the **UK&nbsp;Python Association** (a charity registered in England and Wales <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1173471&SubsidiaryNumber=0">no.&nbsp;1173471</a>).
 

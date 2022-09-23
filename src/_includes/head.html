@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.title }}</title>
 
-  <meta name="description" content="{{ page.summary | default: site.description }}">
+  <meta name="description" content="PyCon UK {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}, {{ site.con_location }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/atom.xml">

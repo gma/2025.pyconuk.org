@@ -9,8 +9,7 @@ title: Information for sponsors
     <li>the names and email addresses of the people claiming your complimentary tickets</li>
     <li>the name, email address, and phone number of somebody who'll be at the conference, and who can act as our point of contact</li>
     <li>a PNG/JPEG logo for the website, width 1068 pixels or larger</li>
-    <li>a URL that you'd like us to share</li>
-    <li>a short (one sentence) description of your company for the website, and a link to your website</li>
+    <li>a link to your website</li>
     <li>your Twitter username if you have one</li>
   </ul>
 </div>
@@ -39,7 +38,7 @@ title: Information for sponsors
   </p>
 
   <p>
-    <strong>PyCon UK 2023</strong><br />
+    <strong>PyCon UK {{ site.con_year }}</strong><br />
     <strong>&lt;your company's name&gt;</strong><br />
     Cardiff City Hall<br />
     Cathays Park<br />

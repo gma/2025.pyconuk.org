@@ -6,7 +6,7 @@ title: Financial Assistance
 Our financial assistance programme exists to support attendees who might otherwise find it difficult to attend the conference.
 We have a budget set aside for this purpose.
 
-The deadline for applications is TBD
+The deadline for applications is {{ site.con_financial_assistance_deadline }} {{ site.con_year }}<br />
 The organisers will not be able to accept applications after that date.
 
 The financial assistance programme prioritises speakers.
