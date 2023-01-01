@@ -1,6 +1,10 @@
 aside {
   position: relative;
-//  background: url(/theme/cardiff.svg);
+
+  @media print {
+    visibility: hidden;
+    display: none;
+  }
 
   a {
     @include link_styles(black, 0.25);
@@ -10,8 +14,6 @@ aside {
     @include central_element();
 
     padding: 1em;
-//    padding-bottom: 2.5em;
-//    padding-bottom: 0.5em;
 
     h1 {
       font-family: Futura-Bold;
@@ -28,7 +30,6 @@ aside {
     }
 
     h3 {
-//      font-size: 1.1em;
       font-weight: normal;
     }
 
@@ -56,21 +57,6 @@ aside {
       }
     }
   }
-
-//  &:after {
-//    content: "";
-//    display: block;
-//    width:  0;
-//    height: 0;
-//    border-style: solid;
-//    border-width: 0 0 7vw 100vw;
-//    border-color: transparent transparent white transparent;
-//    position: absolute;
-//    left:   0;
-//    right:  0;
-//    bottom: 0;
-//    z-index: -9;
-//  }
 
   #action_items {
     margin-bottom: 0;
