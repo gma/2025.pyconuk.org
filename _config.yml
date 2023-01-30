@@ -18,9 +18,8 @@ title: "PyCon UK 2023"
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.
 con_year: 2023
-con_month: September
-con_start: Friday 22nd
-con_finish: Monday 25th
+con_start: Friday 22nd September
+con_finish: Monday 25th September
 con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
 
 # Ticket prices should include VAT at 20%.
