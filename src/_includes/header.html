@@ -11,7 +11,7 @@
     {% assign snake_colours = "red|blue|yellow|green|orange" | split: "|" %}
 
     <div id="header_snake">
-      <img src="/images/{{ snake_colours | sample: 1 }}_snake.png">
+      <img alt="A pycon snake logo" src="/images/{{ snake_colours | sample: 1 }}_snake.png">
     </div>
 
     <script>
@@ -26,9 +26,9 @@
       const snakeColour = choose(colours);
 
       if (Math.random() > 0.5) {
-        var imageHTML = "<img src=\"/images/" + snakeColour + "_snake.png\">";
+        var imageHTML = "<img alt=\"A pycon snake logo\" src=\"/images/" + snakeColour + "_snake.png\">";
       } else {
-        var imageHTML = "<img class=\"flip-horizontally\" src=\"/images/" + snakeColour + "_snake.png\">";
+        var imageHTML = "<img alt=\"A pycon snake logo\" class=\"flip-horizontally\" src=\"/images/" + snakeColour + "_snake.png\">";
       }
 
       document.getElementById("header_snake").innerHTML = imageHTML;
@@ -36,7 +36,7 @@
 
     <h1>{{ site.title | escape }}</h1>
 
-    <h3>{{ site.con_location }}<br/>{{ site.con_start }} to {{ site.con_finish }} {{ site.con_location }}</h3>
+    <p>{{ site.con_location }}<br/>{{ site.con_start }} to {{ site.con_finish }}</p>
 
     <div id="aside_links">
       <ul class="dot_list">
