@@ -6,6 +6,7 @@
 $red: #e31c22;
 $yellow: #fecb2f;
 $blue: #007bff;
+$darkblue: #0020ee;
 $bronze: #cd7f32;
 $silver: #c0c0c0;
 
@@ -39,7 +40,7 @@ main {
 }
 
 a {
-  @include link_styles($blue, 0.3);
+  @include link_styles($darkblue, 0.3);
 }
 
 .dot_list {
