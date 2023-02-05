@@ -9,6 +9,7 @@ $blue: #007bff;
 $darkblue: #0020ee;
 $bronze: #cd7f32;
 $silver: #c0c0c0;
+$darkgrey: #303030;
 
 $default-padding: 1em;
 $max-width: 800px;
@@ -66,10 +67,10 @@ figure {
 
   figcaption {
     font-size: small;
-    color: #777;
+    color: $darkgrey;
 
     a {
-      @include link_styles(#777, 0.3);
+      @include link_styles($darkblue, 0.3);
     }
   }
 }
