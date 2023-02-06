@@ -21,6 +21,7 @@ title: Call for Proposals
   <h3>Main Stage Events</h3>
   <p><strong>Speak to the wonderful PyCon UK audience!</strong></p>
   <p>Stand on our stage with full audio and video facilities, a large projector screen and speech to text translators transcribing every you word you say!</p>
+  <p>You can use the lectern, a wireless microphone or even go full 'Maria Carey' with an inobtrusive headset. If you need anything else, just let us know and our wonderful AV team will swing into action!</p> 
   <p>All sessions on the main stage are 30 minutes long and are recorded and uploaded to our YouTube channel.</p>
 </div>
 
