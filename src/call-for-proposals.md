@@ -13,16 +13,15 @@ title: Call for Proposals
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
-<!-- TODO: Decide whether there are posters and the like -->
-
 <div class="box box_blue">
   <figure>
-    <img src="/images/mikey_talk.jpg" alt="A person speaking into a microphone in front of a projected slide deck discussing 'Why are we here?'. Their laptop is visible and has a truly impressive collection of stickers on it.">
+    <img src="/images/assembly_room.jpg" alt="A person talking from a lectern on a stage to an audience with a slide visible on a projector. Also visible are the speech to text screens on either side of the room and the impressively ornate ceiling.">
   </figure>
 
-  <h3>Talks</h3>
+  <h3>Main Stage Events</h3>
   <p><strong>Speak to the wonderful PyCon UK audience!</strong></p>
-  <p>Come and talk about <strong>something you know</strong> in front of our friendly and welcoming audience. You don't need to be a world class expert to have something meaningful to contribute!</p>
+  <p>Stand on our stage with full audio and video facilities, a large projector screen and speech to text translators transcribing every you word you say!</p>
+  <p>All sessions on the main stage are 30 minutes long and are recorded and uploaded to our YouTube channel.</p>
 </div>
 
 <div class="box box_red">
@@ -30,13 +29,18 @@ title: Call for Proposals
     <img src="/images/workshop.jpg" alt="Two people can be seen sitting at desks, intent upon their laptops as they work on the workshop. A large screen shows information pertaining to the workshop.">
   </figure>
 
-  <h3>Workshops</h3>
-  <p><strong>Share something you know!</strong> Workshops are longer hands-on sessions with small groups. Most workshops will be between 90 and 180 minutes long.</p>
+  <h3>Classroom Events</h3>
+  <p><strong>Share something you know!</strong></p>
+  <p>We have 3 rooms configured in 'classroom' style with round tables, capacity for around 25 people and a projector and screen. Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_blue">
-  <h3>Other ideas</h3>
-  <p><strong>Your idea goes here!</strong> If you have something Python-related that you'd like to share, we'd love to know about it.</p>
+  <figure>
+    <img src="/images/room_d.jpg" alt="A person talking to an audience with a projector screen behind them a flipchart to their right.">
+  </figure>
+  <h3>Lecture Room Events</h3>
+  <p><strong>Go a little deeper!</strong></p>
+  <p>Our lecture room has a projector and screen and is configured in 'lecture' style with rows of seats for an audience of up to 100 people. Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_red">
