@@ -31,7 +31,8 @@ title: Call for Proposals
 
   <h3>Classroom Events</h3>
   <p><strong>Share something you know!</strong></p>
-  <p>We have 3 rooms configured in 'classroom' style with round tables, capacity for around 25 people and a projector and screen. Sessions are 90 minutes long and are not recorded.</p>
+  <p>We have 3 rooms configured in 'classroom' style with round tables, capacity for around 25 people and a projector and screen.</p>
+  <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_blue">
@@ -40,10 +41,11 @@ title: Call for Proposals
   </figure>
   <h3>Lecture Room Events</h3>
   <p><strong>Go a little deeper!</strong></p>
-  <p>Our lecture room has a projector and screen and is configured in 'lecture' style with rows of seats for an audience of up to 100 people. Sessions are 90 minutes long and are not recorded.</p>
+  <p>Our lecture room has a projector and screen and is configured in 'lecture' style with rows of seats for an audience of up to 100 people.</p>
+  <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_red">
-  <p>The deadline for submissions will be <strong>time TBA (Europe/London)</strong> on <strong>date TBA</strong>- but don't leave it until then. Selections will be made after the CFP closes.</p>
+  <p>The deadline for submissions will be <strong>17:00 (Europe/London)</strong> on <strong>Friday July 7th</strong>- but don't leave it until then. Selections will be made after the CFP closes.</p>
   <p>There will be a link to submit your proposal here when the CFP is open.</p>
 </div>
