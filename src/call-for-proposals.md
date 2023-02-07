@@ -47,6 +47,6 @@ title: Call for Proposals
 </div>
 
 <div class="box box_red">
-  <p>The deadline for submissions will be <strong>17:00 (Europe/London)</strong> on <strong>Friday July 7th</strong>- but don't leave it until then. Selections will be made after the CFP closes.</p>
+  <p>The deadline for submissions will be <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>- but don't leave it until then. Selections will be made after the CFP closes.</p>
   <p>There will be a link to submit your proposal here when the CFP is open.</p>
 </div>
