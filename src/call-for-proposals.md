@@ -10,7 +10,7 @@ title: Call for Proposals
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
 <div class="box box_red">
-  <p>The call for proposal will close at <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>.
+  <p>The call for proposal will close at <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>.</p>
   <p>Selections will be made after the CFP closes.</p>
   <p>We'll publish a link here to submit your proposal when the CFP opens.</p>
 </div>
