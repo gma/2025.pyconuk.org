@@ -9,7 +9,11 @@ title: Call for Proposals
 
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
-<p>The call for proposals will be open until <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>. Selections will be made after the CFP closes.</p>
+<div class="box box_red">
+  <p>The call for proposal will close at <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>.
+  <p>Selections will be made after the CFP closes.</p>
+  <p>We'll publish a link here to submit your proposal when the CFP opens.</p>
+</div>
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
@@ -25,7 +29,7 @@ title: Call for Proposals
   <p>All sessions on the main stage are 30 minutes long and are recorded and uploaded to our YouTube channel.</p>
 </div>
 
-<div class="box box_red">
+<div class="box box_yellow">
   <figure>
     <img src="/images/workshop.jpg" alt="Two people can be seen sitting at desks, intent upon their laptops as they work on the workshop. A large screen shows information pertaining to the workshop.">
   </figure>
@@ -36,7 +40,7 @@ title: Call for Proposals
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
-<div class="box box_blue">
+<div class="box box_red">
   <figure>
     <img src="/images/room_d.jpg" alt="A person talking to an audience with a projector screen behind them a flipchart to their right.">
   </figure>
@@ -46,7 +50,3 @@ title: Call for Proposals
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
-<div class="box box_red">
-  <p>The deadline for submissions will be <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>- but don't leave it until then. Selections will be made after the CFP closes.</p>
-  <p>There will be a link to submit your proposal here when the CFP is open.</p>
-</div>
