@@ -9,7 +9,7 @@ title: Call for Proposals
 
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
-<p>The call for proposals will be open until <strong>time TBA (Europe/London)</strong> on <strong>date TBA</strong>. Selections will be made after the CFP closes.</p>
+<p>The call for proposals will be open until <strong>17:00 (Europe/London)</strong> on <strong>Friday 30th June</strong>. Selections will be made after the CFP closes.</p>
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
 
