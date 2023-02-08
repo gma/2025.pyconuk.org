@@ -37,6 +37,7 @@ title: Call for Proposals
   <h3>Classroom Events</h3>
   <p><strong>Share something you know!</strong></p>
   <p>We have 3 rooms configured in 'classroom' style with round tables, capacity for around 25 people and a projector and screen.</p>
+  <p>You could lead a workshop, run a tutorial, host a discussion or anything else you think our community might enjoy.</p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
@@ -47,6 +48,7 @@ title: Call for Proposals
   <h3>Lecture Room Events</h3>
   <p><strong>Go a little deeper!</strong></p>
   <p>Our lecture room has a projector and screen and is configured in 'lecture' style with rows of seats for an audience of up to 100 people.</p>
+  <p>You could give a longer, in-depth talk than a main stage event would permit and build in far more audience participation.</p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
