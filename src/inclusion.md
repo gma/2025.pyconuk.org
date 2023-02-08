@@ -53,7 +53,7 @@ PyCon UK will be a friendly environment for parents and babies.
 </div>
 
 <div class="box box_yellow">
-  <h3>Older Children</h3>
+  <h3>Under 18s</h3>
   <p>For those under the age of 18 who would like to attend the conference itself, you are more than welcome but you will need an adult chaperone.</p>
   <p>Our tickets are for over 18s only but each one entitles the holder to accompany up to two under 18s. They will need to be in the building and contactable whenever you are.</p>
 
