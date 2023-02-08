@@ -133,7 +133,7 @@ We have provision for people with hearing, vision and mobility requirements.
   <h3>Dietary requirements</h3>
 
   <p>
-    We aim to meet all dietary requirements and our lunch time dishes are clearly labelled.
+    We aim to meet a wide range of dietary requirements and our lunch time dishes are clearly labelled.
   </p>
 
   <p>
