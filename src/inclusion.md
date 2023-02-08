@@ -52,6 +52,13 @@ PyCon UK will be a friendly environment for parents and babies.
   </p>
 </div>
 
+<div class="box box_yellow">
+  <h3>Older Children</h3>
+  <p>For those under the age of 18 who would like to attend the conference itself, you are more than welcome but you will need an adult chaperone.</p>
+  <p>Our tickets are for over 18s only but each one entitles the holder to accompany up to two under 18s. They will need to be in the building and contactable whenever you are.</p>
+
+</div>
+
 
 
 ## Facilities and support for special needs
@@ -126,8 +133,7 @@ We have provision for people with hearing, vision and mobility requirements.
   <h3>Dietary requirements</h3>
 
   <p>
-    We aim to meet all dietary requirements.
-    You will be able to specify these when purchasing your ticket.
+    We aim to meet all dietary requirements and our lunch time dishes are clearly labelled.
   </p>
 
   <p>
