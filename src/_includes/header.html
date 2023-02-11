@@ -43,11 +43,11 @@
         <li><a href="/">Home</a></li>
         <li><a href="/sponsorship/">Become a sponsor</a></li>
         <li><a href="/sponsors/">Sponsors</a></li>
-        {% if site.tickets_open == true %}<li><a href="/tickets/">Buy tickets</a></li>{% endif %}
-        <li><a href="/call-for-proposals/">Call for proposals</a></li>
+        {% if site.tickets_open == true %}<li><a href="/tickets/">Buy tickets</a></li>{% else %}<!-- Secret CFP placeholder_snake -->{% endif %}
+        {% if site.tickets_open == true %}<li><a href="/call-for-proposals/">Call for proposals</a></li>{% else %}<!-- snakes_disappear_when_tickets_are_here -->{% endif %}
         <li><a href="/code-of-conduct/">Code of Conduct</a></li>
         <li><a href="/inclusion/">Inclusion</a></li>
-        {% if site.tickets_open == true %}<li><a href="/financial-assistance/">Apply for financial assistance</a></li>{% endif %}
+        {% if site.tickets_open == true %}<li><a href="/financial-assistance/">Apply for financial assistance</a></li>{% else %}<!-- financial_assistance_snake? On its way to help! -->{% endif %}
         <li><a href="#">Schedule</a></li>
         <li><a href="/venue/">Venue</a></li>
         <li><a href="/contact/">Contact Us</a></li>
