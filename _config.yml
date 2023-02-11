@@ -16,16 +16,17 @@
 
 title: "PyCon UK 2023"
 
+# Flags for when things™ happen
+cfp_open: false
+tickets_open: false
+schedule_ready: false
+
 # When changing the year, please change it in the title, above. We can't use vars in vars.
 con_year: 2023
 con_start: Friday 22nd September
 con_finish: Monday 25th September
 con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
-
-cfp_open: false
 cfp_end: Friday 30th June
-
-tickets_open: false
 
 # Ticket prices should include VAT at 20%.
 # If VAT is no longer at 20%, the ticket page needs updating to reflect that.

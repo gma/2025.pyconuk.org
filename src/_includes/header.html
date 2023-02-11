@@ -48,7 +48,7 @@
         <li><a href="/code-of-conduct/">Code of Conduct</a></li>
         <li><a href="/inclusion/">Inclusion</a></li>
         {% if site.tickets_open == true %}<li><a href="/financial-assistance/">Apply for financial assistance</a></li>{% else %}<!-- financial_assistance_snake? On its way to help! -->{% endif %}
-        <li><a href="#">Schedule</a></li>
+        {% if site.schedule_ready == true %}<li><a href="https://pretalx.com/pycon-uk-{{ site.con_year }}/schedule/">Schedule</a></li>{% else %}<!-- Slithery schedules always arrive precisely when they intend to -->{% endif %}
         <li><a href="/venue/">Venue</a></li>
         <li><a href="/contact/">Contact Us</a></li>
       </ul>
