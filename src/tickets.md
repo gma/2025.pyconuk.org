@@ -3,7 +3,7 @@ layout: default
 title: Tickets
 ---
 
-<p>There will be a link to buy your tickets here when ticket sales are open.</p>
+<p><a href="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/">Buy your PyConUK {{ site.con_year }} tickets now!</a></p>
 
 <div class="box box_blue">
   <h3>How to select your ticket rate</h3>
