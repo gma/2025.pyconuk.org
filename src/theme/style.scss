@@ -75,6 +75,16 @@ figure {
   }
 }
 
+@media print {
+  .slide {
+    page-break-after: always;
+  }
+
+  .noprint {
+    display: none;
+  }
+}
+
 @import "header.scss";
 @import "footer.scss";
 @import "columns.scss";
