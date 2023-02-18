@@ -4,6 +4,11 @@ footer {
   position: relative;
   font-size: 80%;
 
+  @media print {
+    visibility: hidden;
+    display: none;
+  }
+
   #footer_inner {
     text-align: center;
     @include centred($max-width - 100px);

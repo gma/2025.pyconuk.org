@@ -32,8 +32,14 @@ main {
     @include central_element();
   }
 
-  // For the footer
-  padding-bottom: 10vw;
+  @media screen {
+    // For the footer
+    padding-bottom: 10vw;
+  }
+
+  @media print {
+    page-break-after: none;
+  }
 
   h1, h2, h3, h4, h5 {
     font-family: Raleway;
@@ -72,6 +78,20 @@ figure {
     a {
       @include link_styles($darkblue, 0.3);
     }
+  }
+}
+
+@media print {
+  .slide {
+    page-break-after: always;
+  }
+
+  .noprint {
+    display: none;
+  }
+
+  div:last-of-type {
+    page-break-after: none;
   }
 }
 
