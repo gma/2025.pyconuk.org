@@ -124,9 +124,11 @@ layout: default
 <div class="slide">
   <h1>Get In Touch</h1>
   <p>If you’re interested in sponsoring the conference, please get in touch. We’d be delighted to discuss options with you.</p>
-  <p>Website: {{ site.url }}</p>
-  <p>Email: {{ "pyconuk@uk.python.org" | create_mailto_link }}</p>
-  <p>Telephone: 000000</p>
+  <p>
+     Website: {{ site.url }}<br />
+     Email: {{ "pyconuk@uk.python.org" | create_mailto_link }}
+     Phone: +44 7700 900 000
+  </p>
   <h1>About PyCon UK</h1>
   <p>PyCon UK is organised entirely by unpaid volunteer members of the Python community in the UK.</p>
   <p>It’s the largest Python community event in the UK and regularly attracts leading developers from around the world to speak and share their knowledge.</p>
