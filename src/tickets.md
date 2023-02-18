@@ -3,7 +3,11 @@ layout: default
 title: Tickets
 ---
 
-<p><a href="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/">Buy your PyConUK {{ site.con_year }} tickets now!</a></p>
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/"></pretix-widget>
+
+<p>If you can't see the tickets widget, you can <a href="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/">buy your PyConUK {{ site.con_year }} tickets here.</a></p>
 
 <div class="box box_blue">
   <h3>How to select your ticket rate</h3>
@@ -39,5 +43,3 @@ title: Tickets
   <p>All prices in this table <strong>include</strong> VAT at 20%<br />
   VAT number: GB249244982</p>
 </div>
-
-<p>There will be a link to buy your tickets here when ticket sales are open.</p>
