@@ -16,11 +16,11 @@ We will publish details of our sponsorship packages soon.
 
 <figure>
   <img
-    src="/images/sponsors_1x.jpg"
-    srcset="/images/sponsors_1x.jpg 1x, /images/sponsors_2x.jpg 2x"
+    src="/images/marble_hall_1x.jpg"
+    srcset="/images/marble_hall_1x.jpg 1x, /images/marble_hall_2x.jpg 2x"
     alt="Looking down room with tables along either side. The tables have branding from various companies.">
   <figcaption>
-    Sponsor stands in the Marble Hall at PyCon UK 2019.
-    Photo taken by <a href="https://www.flickr.com/photos/184390836@N04/48726548331/in/album-72157710822891673/">Mark Hawkins</a>, CC BY.
+    Sponsor stands in the Marble Hall at PyCon UK 2022.
+    Photo taken by <a href="https://www.flickr.com/photos/184390836@N04/52363686581/in/album-72177720302176293/">Mark Hawkins</a>, CC BY.
   </figcaption>
 </figure>
