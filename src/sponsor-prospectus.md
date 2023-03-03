@@ -50,16 +50,16 @@ layout: default
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Logo on Video Title Card</th>
         <td>Yes</td>
         <td>Yes</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Complementary Tickets</th>
@@ -72,10 +72,10 @@ layout: default
       <tr>
         <th scope="row">Main Stage Signage/Props</th>
         <td>Yes</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Stand in Marble Hall</th>
@@ -83,7 +83,7 @@ layout: default
         <td>Large</td>
         <td>Standard</td>
         <td>Standard</td>
-        <td></td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Tweets</th>
@@ -98,8 +98,8 @@ layout: default
         <td>5</td>
         <td>3</td>
         <td>1</td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
       </tr>
     </tbody>
   </table>
