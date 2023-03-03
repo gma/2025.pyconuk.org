@@ -6,16 +6,8 @@ layout: default
   <h1>Four Days of Python Events in Cardiff</h1>
   <p>{{ site.con_start }} - {{ site.con_finish }} {{ site.con_year }}</p>
   <p>{{ site.con_location }}</p>
-</div>
-<hr class="noprint" />
-<div class="slide">
-  <h1>Why Sponsor PyCon UK?</h1>
-  <p>Sponsoring PyCon UK will put you in front of an appreciative audience full of the best talent in the UK Python community.</p>
-  <p>If you use Python, then sponsoring a community event is an effective and meaningful way of contributing to the software on which you rely.</p>
-  <p>If you’re looking for new users, you’ll find those here and they too will be looking for new products and ideas.</p>
-  <p>If you’re recruiting, this is the best place to find new talent: many attendees will be skilled and experienced developers looking for their next opportunity.</p>
-  <p>If you want to get your message across and be talked about, it’s a great opportunity: people like to discover and share new things.</p>
-  <p>If you want to find new development partners and collaborators,  this is where they will be looking for you.</p>
+  <p>PyCon UK is organised entirely by unpaid volunteer members of the Python community in the UK.</p>
+  <p>It’s the largest Python community event in the UK and regularly attracts leading developers from around the world to speak and share their knowledge.</p>
 </div>
 <hr class="noprint" />
 <div class="slide">
@@ -58,16 +50,16 @@ layout: default
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Logo on Video Title Card</th>
         <td>Yes</td>
         <td>Yes</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Complementary Tickets</th>
@@ -80,10 +72,10 @@ layout: default
       <tr>
         <th scope="row">Main Stage Signage/Props</th>
         <td>Yes</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Stand in Marble Hall</th>
@@ -91,7 +83,7 @@ layout: default
         <td>Large</td>
         <td>Standard</td>
         <td>Standard</td>
-        <td></td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Tweets</th>
@@ -106,11 +98,21 @@ layout: default
         <td>5</td>
         <td>3</td>
         <td>1</td>
-        <td></td>
-        <td></td>
+        <td>-</td>
+        <td>-</td>
       </tr>
     </tbody>
   </table>
+</div>
+<hr class="noprint" />
+<div class="slide">
+  <h1>Why Sponsor PyCon UK?</h1>
+  <p>Sponsoring PyCon UK will put you in front of an appreciative audience full of the best talent in the UK Python community.</p>
+  <p><em>If you use Python</em>, then sponsoring a community event is an effective and meaningful way of contributing to the software on which you rely.</p>
+  <p><em>If you’re looking for new users</em>, you’ll find those here and they too will be looking for new products and ideas.</p>
+  <p><em>If you’re recruiting</em>, this is the best place to find new talent: many attendees will be skilled and experienced developers looking for their next opportunity.</p>
+  <p><em>If you want to get your message across and be talked about</em>, it’s a great opportunity: people like to discover and share new things.</p>
+  <p><em>If you want to find new development partners and collaborators</em>, this is where they will be looking for you.</p>
 </div>
 <hr class="noprint" />
 <div class="slide">
@@ -126,12 +128,6 @@ layout: default
   <p>If you’re interested in sponsoring the conference, please get in touch. We’d be delighted to discuss options with you.</p>
   <p>
      Website: {{ site.url }}<br />
-     Email: {{ "pyconuk@uk.python.org" | create_mailto_link }}
-     Phone: +44 7700 900 000
+     Email: {{ "sponsorship@uk.python.org" | create_mailto_link }}
   </p>
-  <h1>About PyCon UK</h1>
-  <p>PyCon UK is organised entirely by unpaid volunteer members of the Python community in the UK.</p>
-  <p>It’s the largest Python community event in the UK and regularly attracts leading developers from around the world to speak and share their knowledge.</p>
-  <p>The Pycon UK {{ site.con_year }} conference director is {{ site.con_director }}</p>
-  <p>The conference is run by {{ site.con_company }} on behalf of {{ site.ukpa }}.</p>
 </div>
