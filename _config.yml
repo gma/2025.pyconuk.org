@@ -29,12 +29,6 @@ con_finish: Monday 25th September
 con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
 cfp_end: Friday 30th June
 
-# Ticket prices should include VAT at 20%.
-# If VAT is no longer at 20%, the ticket page needs updating to reflect that.
-con_standard_ticket_price: £X
-con_individual_ticket_price: £Y
-con_unwaged_ticket_price: £Z
-
 con_location: Cardiff City Hall
 con_director: Ann Barr
 

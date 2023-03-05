@@ -14,28 +14,60 @@ title: Tickets
   <p>If your tickets are being paid for by your employer, please select the <strong>Standard</strong> rate.</p>
   <p>If you are paying for your ticket out of your own pocket, please select the <strong>Individual</strong> rate.</p>
   <p>If you are unwaged (for example in full-time education), please select the <strong>Unwaged</strong> rate.</p>
+  <p>If you are happy to pay extra to help support the conference, you may select one of the <strong>Supporter</strong> rates.</p>
   <a href="/tickets/about-our-ticket-prices/">About our ticket prices</a>
+</div>
+
+<div class="box box_red">
+  <p>Please note that anyone under 18 must be accompanied by an identifiable adult.</p>
+  <p>This adult has responsibility for the minor at all times and must be in attendence whenever the minor is, and contactable by the event organisers.</p>
 </div>
 
 <div class="box box_yellow">
   <h3>Ticket prices</h3>
   <table class="table">
     <thead>
-      <th scope="col">Ticket type</th>
-      <th scope="col">Ticket price</th>
+      <th scope="col">Number of days</th>
+      <th scope="col">1</th>
+      <th scope="col">2</th>
+      <th scope="col">3</th>
     </thead>
     <tbody>
       <tr>
         <th scope="row">Standard</th>
-        <td>{{ site.con_standard_ticket_price }}</td>
+        <td>£132</td>
+        <td>£246</td>
+        <td>£360</td>
       </tr>
       <tr>
         <th scope="row">Individual</th>
-        <td>{{ site.con_individual_ticket_price }}</td>
+        <td>£70</td>
+        <td>£120</td>
+        <td>£204</td>
       </tr>
       <tr>
         <th scope="row">Unwaged</th>
-        <td>{{ site.con_unwaged_ticket_price }}</td>
+        <td>£39.60</td>
+        <td>£75</td>
+        <td>£100</td>
+      </tr>
+      <tr>
+        <th scope="row">Young coders (with accompanying adult)</th>
+        <td>£6</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <th scope="row">Supporter Standard</th>
+        <td>-</td>
+        <td>-</td>
+        <td>£600</td>
+      </tr>
+      <tr>
+        <th scope="row">Supporter Individual</th>
+        <td>-</td>
+        <td>-</td>
+        <td>£260</td>
       </tr>
     </tbody>
   </table>

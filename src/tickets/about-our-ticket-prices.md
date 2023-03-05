@@ -17,6 +17,7 @@ title: About our ticket prices
 
 <div class="box box_red">
   <h3>Business, individual, and unwaged rates</h3>
+  <p>For those who can afford to, and want to support the conference more, we offer <strong>Supporter</strong> tickets, of both <strong>Standard</strong> and <strong>Individual</strong> (see below) types.</p>
   <p>Our standard, full-price ticket rate is the <strong>Standard</strong> rate. Companies can account for tickets as a legitimate business cost, which has tax implications. Businesses can also claim back the VAT we are obliged to charge.</p>
   <p>We offer discounted prices for <strong>Individuals</strong>, people who have to pay to attend out of their own pockets, and who can’t absorb the cost of the conference into their operating business finances the way corporations can, or claim back VAT.</p>
   <p>Finally, we offer further discounts for people who are <strong>Unwaged</strong>.</p>
@@ -24,7 +25,7 @@ title: About our ticket prices
 </div>
 
 <div class="box box_blue">
-  <h3>All tickets are subsidised</h3>
+  <h3>All tickets are subsidised (except Supporter tickets)</h3>
   <p>It's worth noting that even <strong>the full Standard rate is less than the cost per person of the event.</strong></p>
   <p>In other words, a full-rate ticket is sold for less than it costs us to have an attendee at the conference - even at the highest rate, <strong>you are literally getting more than you have paid for.</strong></p>
   <p>The difference is made up by the generous <a href="/sponsorship/">sponsorship</a> we rely on.</p>
@@ -33,7 +34,7 @@ title: About our ticket prices
 <div class="box box_yellow">
   <h3>Non-profit, volunteer-run</h3>
   <p><strong>PyCon UK is a non-profit event</strong>. Any surplus funds are rolled over to the following year's budget.</p>
-  <p>The organisers of PyCon UK are all unpaid volunteers. We do this in our spare time (and will buy our own tickets to the event).</p>
+  <p>The organisers of PyCon UK are all unpaid volunteers. We do this in our spare time.</p>
 </div>
 
 <div class="box box_red">
