@@ -52,3 +52,10 @@ title: Call for Proposals
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
+<div class="box box_yellow">
+  <h3>Young Coders' Events</h3>
+  <p><strong>Help young coders learn and make something!</strong></p>
+  <p>We have some rooms configured in 'classroom' style with round tables, capacity for around ## people and a projector and screen.</p>
+  <p>You could share something with the next generation of coders. Help them find something to enjoy, and they can even show it off to the rest of the conference!</p>
+  <p>Sessions are XX minutes long and are not recorded.</p>
+</div>
