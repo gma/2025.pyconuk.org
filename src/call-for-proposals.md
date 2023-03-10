@@ -48,7 +48,7 @@ title: Call for Proposals
   <h3>Lecture Room Events</h3>
   <p><strong>Go a little deeper!</strong></p>
   <p>Our lecture room has a projector and screen and is configured in 'lecture' style with rows of seats for an audience of up to 100 people.</p>
-  <p>You could give a longer, in-depth talk than a main stage event would permit and build in far more audience participation.</p>
+  <p>You could give a longer, more in-depth talk than a main stage event would permit and build in far more audience participation.</p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
