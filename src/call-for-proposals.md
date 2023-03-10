@@ -36,7 +36,7 @@ title: Call for Proposals
 
   <h3>Classroom Events</h3>
   <p><strong>Share something you know!</strong></p>
-  <p>We have 2 rooms setup classroom-style, with rows of tables facing the front, and capacity for about 20  people each, and one room set up with round tables, and capacity for about 50 people.  Each room has a projector and screen available.</p>
+  <p>We have 2 rooms set up classroom-style, with rows of tables facing the front, and capacity for about 20  people each, and one room set up with round tables, and capacity for about 50 people.  Each room has a projector and screen available.</p>
   <p>You could lead a workshop, run a tutorial, host a discussion or anything else you think our community might enjoy.</p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
