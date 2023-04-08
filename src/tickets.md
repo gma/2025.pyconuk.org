@@ -2,6 +2,7 @@
 layout: default
 title: Tickets
 ---
+{% if site.tickets_open != true %}<div class="box box_red"><p><strong>Well done, you found the tickets page, but they're not on sale yet- you'll have to wait a little longer!</strong></p></div>{% endif %}
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/pyconuk/PyConUK{{ site.con_year }}/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
