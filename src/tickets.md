@@ -16,6 +16,7 @@ title: Tickets
   <p>If you are unwaged (for example in full-time education), please select the <strong>Unwaged</strong> rate.</p>
   <p>If you have a young coder (primary school or early secondary school) who wants to come to the <strong>Young Coders</strong> day, please select that rate. You can accompany them at no extra charge.</p>
   <p>If you are happy to pay extra to help support the conference, you may select one of the <strong>Supporter</strong> rates.</p>
+  <p>The sprint day is accessible to all ticket holders at no extra charge.</p>
   <a href="/tickets/about-our-ticket-prices/">About our ticket prices</a>
 </div>
 
@@ -26,6 +27,7 @@ title: Tickets
 
 <div class="box box_yellow">
   <h3>Ticket prices</h3>
+  <p>The sprint day is accessible to all ticket holders at no extra charge.</p>
   <table class="table">
     <thead>
       <th scope="col">Number of days</th>
