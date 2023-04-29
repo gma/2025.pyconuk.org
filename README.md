@@ -15,10 +15,12 @@ To build the project we first need to check that we have Jekyll's requirements i
 
 These are:
 
-* [Ruby](https://www.ruby-lang.org/en/downloads/) (version 2.4.0 or newer)
+* [Ruby](https://www.ruby-lang.org/en/downloads/) (tested with Ruby 2.7- you will also need the development headers)
 * [RubyGems](https://rubygems.org/pages/download)
 * [GCC](https://gcc.gnu.org/install/)
 * [Make](https://www.gnu.org/software/make/)
+
+On Ubuntu 20.04 this can be achieved by: sudo apt-get install -y ruby ruby-dev gcc make
 
 You can check if you have these installed by typing `<command> -v` in your terminal.
 If the program is available on your system then you should see the version of the program that is installed outputted in your terminal.
@@ -39,3 +41,25 @@ To view the website open [http://127.0.0.1:4000/](http://127.0.0.1:4000/) in you
 This will also automatically rebuild the project when a change to the source is detected.
 
 
+## Help! Bundler is mucking around and won't install anything (execution expired)
+
+You may need to disable IPv6 as apparently bundler is rather shoddy.
+
+On Ubuntu:
+```bash
+echo "Showing current IPv6 state"
+for conf_entry in all default lo; do
+  sysctl net.ipv6.conf.${conf_entry}.disable_ipv6=1
+done
+echo "Updating IPv6 state"
+for conf_entry in all default lo; do
+  sudo sysctl -w net.ipv6.conf.${conf_entry}.disable_ipv6=1
+done
+```
+
+You can re-enable it afterwards, e.g. on Ubuntu
+```bash
+for conf_entry in all default lo; do
+  sudo sysctl -w net.ipv6.conf.${conf_entry}.disable_ipv6=0
+done
+```
