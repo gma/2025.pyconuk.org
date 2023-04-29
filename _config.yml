@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "PyCon UK 2023"
+title: "PyCon UK 2024"
 
 # Flags for when things™ happen
 cfp_open: false
@@ -23,11 +23,11 @@ schedule_ready: false
 show_sponsors: false
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.
-con_year: 2023
-con_start: Friday 22nd September
-con_finish: Monday 25th September
+con_year: 2024
+con_start: Friday 20th September
+con_finish: Tuesday 24th September
 con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
-cfp_end: Friday 30th June
+cfp_end: Someday Nth Somemonth
 
 con_location: Cardiff City Hall
 con_director: Ann Barr
@@ -36,7 +36,7 @@ con_company: UKPA Trading Ltd. (a company registered in England and Wales <a hre
 ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1173471&SubsidiaryNumber=0">no.&nbsp;1173471</a>)
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2023.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2024.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 source: src
