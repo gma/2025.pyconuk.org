@@ -19,6 +19,7 @@ Our selection process will take into account:
 * Supporting inclusivity and diversity by prioritising those who belong to under-represented or marginalised groups*.
 * Supporting newcomers to the Python community, especially first time attendees who may not have the financial means to attend.
 * The impact attendance at the conference will have on the individual applicant compared to others. This may take into account factors such as their local opportunities to attend similar conferences, their involvement in the local community, and their individual circumstances.
+
 *under-represented or marginalised groups include, but are not limited to:
 
 * women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary people
