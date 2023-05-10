@@ -3,32 +3,51 @@ layout: default
 title: Financial Assistance
 ---
 
-Our financial assistance programme exists to support attendees who might otherwise find it difficult to attend the conference.
-We have a budget set aside for this purpose.
+PyCon UK is pleased to offer grants for those who might otherwise not be able to attend.
 
-The deadline for applications is {{ site.con_financial_assistance_deadline }} {{ site.con_year }}<br />
-The organisers will not be able to accept applications after that date.
+## Contributions
+You can help by purchasing a <strong>Supporter</strong> ticket which will allow us to allocate extra funds to providing cheaper or free tickets to those who would not otherwise be able to afford to attend.
 
-The financial assistance programme prioritises speakers.
-We also use it to support attendees from groups who are under-represented in our community and at our events,
-as part of our efforts to make PyCon UK as inclusive and diverse as possible.
+## Eligibility
+We encourage anyone who needs assistance to attend to apply for a grant. We’d love to be able to help all those who submit applications, but our funds are not unlimited, so we can’t meet all requests. Our goal is to maximise the impact our grant program has, within the limited funds that we have available.
 
-Sometimes people feel reluctant to apply,
-for all kinds of reasons.
-For example, they feel might embarrassed to ask for help,
-or they doubt that they are the right kind of person,
-or they think that they don't deserve it,
-or that other people are more deserving.
-We hope that you won't feel like this, and we will be glad to receive your request for support.
-
-We welcome applications from all attendees, and strongly encourage you to apply if it would make it easier for you to attend.
-Many of your fellow attendees will be doing the same, including many speakers and even members of the conference organisation team.
-
-We'd love to be able to help all those who submit applications, but our funds are not unlimited, so we can't meet all requests.
-We do our best to maximise the impact of our financial assistance funding.
-Whoever you are, however, and whatever your needs, please do apply if we might be able to help you attend.
 Your application will be treated in complete confidence.
 
-Thanks for applying. We hope we'll be able to help.
+Our selection process will take into account:
 
-<p>There will be a link to apply for financial assistance here when this is available.</p>
+* The contribution that the applicant can make to the conference and the wider community. This may be because you are a speaker or workshop/tutorial presenter, or because you have an impact on the Python community in some other way (e.g. local community organisers, open source contributors).
+* Supporting inclusivity and diversity by prioritising those who belong to under-represented or marginalised groups*.
+* Supporting newcomers to the Python community, especially first time attendees who may not have the financial means to attend.
+* The impact attendance at the conference will have on the individual applicant compared to others. This may take into account factors such as their local opportunities to attend similar conferences, their involvement in the local community, and their individual circumstances.
+*under-represented or marginalised groups include, but are not limited to:
+
+* women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary people
+* people of colour
+* sexuality minorities, including asexual people
+* people with disabilities, whether visible and invisible
+* neurodivergent people
+* people with chronic illnesses or diseases
+* religious and ethnic minorities
+* age minorities (under ~21, over ~60)
+* people experiencing poverty
+* homeless and home/food-insecure people
+* caregivers of children or other dependents
+* people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
+* people living with or recovering from substance abuse
+* people who have been displaced or affected by wars in Ukraine and elsewhere
+
+## How to apply
+Opportunity grant applications close on {{ site.con_financial_assistance_deadline }} {{ site.con_year }}.
+
+You can apply for 3 types of grant:
+
+* Conference ticket: a free standard ticket to the full conference talks and sprints (note that if you are a speaker, you will receive a free ticket)
+* Travel and accommodation: we will consider applications for contributions towards travel and accommodation costs up to a maximum £300
+* Visa application fee: reimbursement for the cost of a UK Standard Visitor visa (up to £100).
+
+If you have any questions, feel free to reach out to the organisers at {{ "pyconuk@uk.python.org" | create_mailto_link }}.
+
+## Receiving funds
+Grants will be paid at the conference or shortly after, as a cheque in GBP.
+
+Reimbursements for travel/accommodation/visa fees will only be made after submission of invoices/receipts.
