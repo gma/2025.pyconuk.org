@@ -15,6 +15,7 @@ Your application will be treated in complete confidence.
 
 Our selection process will take into account:
 
+* Whether PyCon UK is the most local Python event that the applicant could possibly attend.
 * The contribution that the applicant can make to the conference and the wider community. This may be because you are a speaker or workshop/tutorial presenter, or because you have an impact on the Python community in some other way (e.g. local community organisers, open source contributors).
 * Supporting inclusivity and diversity by prioritising those who belong to under-represented or marginalised groups*.
 * Supporting newcomers to the Python community, especially first time attendees who may not have the financial means to attend.
@@ -38,6 +39,9 @@ Our selection process will take into account:
 * people who have been displaced or affected by wars in Ukraine and elsewhere
 
 ## How to apply
+
+Please fill out the form <a href="https://forms.gle/wChsyiKJjvTvXUp78">here</a>.
+
 Opportunity grant applications close on {{ site.con_financial_assistance_deadline }} {{ site.con_year }}.
 
 You can apply for 3 types of grant:
