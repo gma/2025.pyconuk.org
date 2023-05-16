@@ -14,6 +14,8 @@ We will publish details of our sponsorship packages soon.
 
 [Practical information for sponsors](/information-for-sponsors/)
 
+[Sponsorship prospectus](/sponsor-prospectus/)
+
 <figure>
   <img
     src="/images/marble_hall_1x.jpg"
