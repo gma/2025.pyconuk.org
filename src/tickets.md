@@ -77,5 +77,5 @@ title: Tickets
   </table>
 
   <p>All prices in this table <strong>include</strong> VAT at 20%<br />
-  VAT number: GB249244982</p>
+  VAT number: {{ site.con_vat_number }}</p>
 </div>

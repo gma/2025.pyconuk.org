@@ -13,7 +13,7 @@ Poole,
 BH17 7FJ
 ```
 
-Our VAT number is `431251341`.
+Our VAT number is `{{ site.con_vat_number }}`.
 
 We want to make sure we pay people as soon as we can.
 Equally we're a volunteer-run organisation.
