@@ -9,7 +9,7 @@ title: Schedule
 
 <p>We will be holding a Young Coder’s day on Saturday 23rd September suitable for young people aged from about 8 years old to 16 years old. Young Coder’s tickets are available at £6 for a young coder and an accompanying adult. The adult will accompany and be responsible for their young coder for the duration of the day.</p>
 
-<p>We will also be holding a Django Girls workshop on Saturday 23rd September. This workshop will have it’s own application process which we will update here shortly. It will not be a general access workshop within the the broader conference programme.</p>
+<p>We will also be holding a Django Girls workshop on Saturday 23rd September. This workshop will have its own application process which we will update here shortly. It will not be a general access workshop within the the broader conference programme.</p>
 
 {% if site.schedule_ready == true %}
 <script type="text/javascript" src="https://pretalx.com/pycon-uk-{{ site.con_year }}/schedule/widget/v2.en.js"></script>
