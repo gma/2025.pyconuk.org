@@ -21,7 +21,7 @@ title: Tickets
   <p>If your tickets are being paid for by your employer, please select the <strong>Standard</strong> rate.</p>
   <p>If you are paying for your ticket out of your own pocket, please select the <strong>Individual</strong> rate.</p>
   <p>If you are unwaged (for example in full-time education), please select the <strong>Unwaged</strong> rate.</p>
-  <p>If you have a young coder (primary school or early secondary school) who wants to come to the <strong>Young Coders</strong> day, please select that rate. You can accompany them at no extra charge.</p>
+  <p>If you have a young coder (aimed at ages 8 - 16) who wants to come to the <strong>Young Coders</strong> day, please select that rate. You can accompany them at no extra charge.</p>
   <p>If you are happy to pay extra to help support the conference, you may select one of the <strong>Supporter</strong> rates.</p>
   <p>The sprint day is accessible to all ticket holders at no extra charge.</p>
   <a href="/tickets/about-our-ticket-prices/">About our ticket prices</a>
@@ -62,7 +62,7 @@ title: Tickets
         <td>£100</td>
       </tr>
       <tr>
-        <th scope="row">Young coders (with accompanying adult)</th>
+        <th scope="row">Young coders (aimed at ages 8 - 16, with accompanying adult)</th>
         <td>£6</td>
         <td>-</td>
         <td>-</td>

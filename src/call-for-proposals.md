@@ -54,7 +54,7 @@ title: Call for Proposals
 
 <div class="box box_yellow">
   <h3>Young Coders' Events</h3>
-  <p><strong>Help young coders learn and make something!</strong></p>
+  <p><strong>Help young coders (aimed at ages 8 - 16) learn and make something!</strong></p>
   <p>We have part of the lower hall set up with round tables, capacity for around 30 young coders (plus their guardians) and a projector and screen.</p>
   <p>Each young coder's 'workstation' will be set up with a raspberry pi.</p>
   <p>You could share something with the next generation of coders. Help them find something to enjoy, and they can even show it off to the rest of the conference!</p>
