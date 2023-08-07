@@ -5,16 +5,15 @@ title: Schedule
 
 <p>The conference will run from Friday 22nd till Monday 25th September 2023.</p>
 
-<p>The conference will be made up of 3 days of talks and workshops from Friday - Sunday and a single day of sprints on Monday. All ticket holders are entitled to join the sprints day at no additional charge.</p>
 
 {% if site.schedule_ready == true %}
-
+<p>All ticket holders are entitled to join the sprints day at no additional charge.</p>
+<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a></p>
 
 <script type="text/javascript" src="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/widget/v2.en.js"></script>
 <pretalx-schedule event-url="https://pretalx.com/pyconuk-{{ site.con_year }}/" locale="en" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
-
-<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a></p>
 {% else %}
+<p>The conference will be made up of 3 days of talks and workshops from Friday - Sunday and a single day of sprints on Monday. All ticket holders are entitled to join the sprints day at no additional charge.</p>
 
 <p>We will be holding a Young Coder’s day on Saturday 23rd September suitable for young people aged from about 8 years old to 16 years old. Young Coder’s tickets are available at £6 for a young coder and an accompanying adult. The adult will accompany and be responsible for their young coder for the duration of the day.</p>
 
