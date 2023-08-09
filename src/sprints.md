@@ -42,3 +42,7 @@ Yes: feel free to drop in and out.
 
 Let us know. We will make a point to let everyone know what is happening at the
 sprints.
+
+## Is it OK to just drop in to take a look?
+
+Yes :)
