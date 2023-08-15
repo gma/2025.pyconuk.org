@@ -28,7 +28,7 @@ title: Django Girls
 <div class="box box_red">
   <h3>Be part of PyCon UK {{ site.con_year }}</h3>
   <p>The workshop is <strong>free of charge</strong> and is part of PyCon UK.</p>
-  <p>Django Girls attendees at PyCon UK will be offered a <strong>free conference ticket</strong> to the full five-day conference.</p>
+  <p>Django Girls attendees at PyCon UK will be offered a <strong>free conference ticket</strong> to the full multi-day conference.</p>
   <p>We encourage you to make the most of this - it's a fun few days in a wonderful city and you will have the chance to take your programming skills further and be a part of the Python community!</p>
   <p>As complete beginners to programming, you will be especially welcome at PyCon UK {{ site.con_year }}.</p>
   <p>We want to make your introduction to programming as enjoyable as possible.</p>
