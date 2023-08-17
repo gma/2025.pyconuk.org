@@ -4,7 +4,7 @@ layout: default
 
 ## PyCon UK will be returning to {{ site.con_location }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
 
-<p><a>You can follow us on <a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a> or <a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a>.</p>
+<p>You can follow us on <a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a> or <a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a>.</p>
 <br />
 
 <p>PyconUK related merchandise is available <a href="https://pyconuk.myspreadshop.co.uk/">here</a>.</p>
