@@ -9,7 +9,7 @@ title: Django Girls
 
 <p>Django Girls is a hugely successful world-wide project that has introduced thousands of women and girls to programming; it has run at PyCon UK since 2015.</p>
 
-<a href="https://djangogirls.org/pyconuk/">Apply to attend Django Girls at PyConUK {{ site.con_year }}</a>
+<a href="https://djangogirls.org/pyconuk/">Apply to attend Django Girls at PyCon UK {{ site.con_year }}</a>
 
 <figure>
   <img src="/images/django_girls_banner.jpg" alt="The django girls balloon-banner.">
@@ -51,6 +51,6 @@ title: Django Girls
   <img src="/images/django_girls_assist.jpg" alt="Another one of the django girls being assisted- you're not alone.">
 </figure>
 
-<a href="https://djangogirls.org/pyconuk/">Apply to attend Django Girls at PyConUK {{ site.con_year }}</a>
+<a href="https://djangogirls.org/pyconuk/">Apply to attend Django Girls at PyCon UK {{ site.con_year }}</a>
 
 {% endif %}

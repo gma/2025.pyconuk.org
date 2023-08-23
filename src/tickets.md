@@ -14,7 +14,7 @@ title: Tickets
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <pretix-widget event="https://pretix.eu/ukpatl/pyconuk-{{ site.con_year }}/"></pretix-widget>
 
-<p>If you can't see the tickets widget, you can <a href="https://pretix.eu/ukpatl/PyConUK-{{ site.con_year }}/">buy your PyConUK {{ site.con_year }} tickets here.</a></p>
+<p>If you can't see the tickets widget, you can <a href="https://pretix.eu/ukpatl/PyConUK-{{ site.con_year }}/">buy your PyCon UK {{ site.con_year }} tickets here.</a></p>
 
 <div class="box box_blue">
   <h3>How to select your ticket rate</h3>
