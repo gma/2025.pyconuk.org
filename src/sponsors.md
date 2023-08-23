@@ -17,10 +17,15 @@ title: Sponsors
 
 <div class="box box_silver">
   <h3>Silver sponsors</h3>
-  <a href="#"><img height="150" width="150" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyconUK {{ site.con_year }}" title="Snakeholder"></a>
+  <a href="#"><img height="150" width="150" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
 </div>
 
 <div class="box box_bronze">
   <h3>Bronze sponsors</h3>
-  <a href="#"><img height="140" width="140" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyconUK {{ site.con_year }}" title="Snakeholder"></a>
+  <a href="#"><img height="140" width="140" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
+</div>
+
+<div class="box box_red">
+  <h3>Other Supporters</h3>
+  <a href="#"><img height="130" width="130" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a supporter of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
 </div>

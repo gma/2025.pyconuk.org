@@ -7,7 +7,7 @@ layout: default
 <p>You can follow us on <a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a> or <a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a>.</p>
 <br />
 
-<p>PyconUK related merchandise is available <a href="https://pyconuk.myspreadshop.co.uk/">here</a>.</p>
+<p>PyCon UK related merchandise is available <a href="https://pyconuk.myspreadshop.co.uk/">here</a>.</p>
 <br />
 
 <p>Alternatively, you can <a href="https://www.ravelry.com/patterns/library/curly-snake-3">knit your own snakes using patterns created by one of our volunteers, Becky Smith</a>.</p>
@@ -16,7 +16,7 @@ layout: default
     src="/images/becky_snakes.jpg"
     alt="A collection of hand knitted snakes."></a>
   <figcaption>
-    Photo of snakes created by PyconUK volunteer Becky Smith.
+    Photo of snakes created by PyCon UK volunteer Becky Smith.
   </figcaption>
 </figure>
 <br />

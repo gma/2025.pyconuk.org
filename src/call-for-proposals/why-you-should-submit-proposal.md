@@ -33,7 +33,7 @@ title: A conference proposal? Me? Why?
 </div>
 
 <div class="box box_blue">
-  <h3>Pycon UK has a large and enthusiastic audience</h3>
+  <h3>PyCon UK has a large and enthusiastic audience</h3>
   <p>Whatever it is you have to share, <strong>it's going to strike a chord</strong> with at least someone in our audience. Your contribution, however modest or specialised you think it might be, could be exactly what someone else has been waiting for.</p>
   <p>A session at PyCon UK is an excellent way to <strong>raise interest in a project</strong>, <strong>find new collaborators</strong>, or <strong>draw attention to a problem.</strong></p>
   <p>Our audience is <strong>supportive, friendly and respectful</strong>, and people are there precisely because they want to hear about new things that they can become involved in and make a difference to.</p>
