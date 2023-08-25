@@ -28,3 +28,29 @@ We can provide parking at the venue for attendees with access needs -- if this i
     Photo taken by <a href="https://www.flickr.com/photos/184390836@N04/48731005602/in/album-72157710834766358/">Mark Hawkins</a> at PyCon UK 2019, CC BY.
   </figcaption>
 </figure>
+
+## Floor Plan
+
+### Ground Floor
+
+<figure>
+  <img
+    src="/images/cardiff_city_hall_ground_floor.png"
+    srcset="/images/cardiff_city_hall_ground_floor.png 1x"
+    alt="A labelled ground floor plan showing the locations of the lower hall, toilets, help desk and lifts.">
+  <figcaption>
+    The ground floor plan
+  </figcaption>
+</figure>
+
+### First Floor
+
+<figure>
+  <img
+    src="/images/cardiff_city_hall_first_floor.png"
+    srcset="/images/cardiff_city_hall_first_floor.png 1x"
+    alt="A labelled first floor plan showing the locations of the assembly room, ferrier hall, rooms A to D and rooms I to L, the quiet room, toilets and lifts.">
+  <figcaption>
+    The first floor plan
+  </figcaption>
+</figure>
