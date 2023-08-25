@@ -42,7 +42,7 @@
       <ul class="dot_list">
         <li><a href="/">Home</a></li>
         <li><a href="/sponsorship/">Become a sponsor</a></li>
-        {% if site.schedule_ready == true %}<li><a href="/sponsors/">Sponsors</a></li>{% else %}<!-- Did you know: Slange is Danish for snake? -->{% endif %}
+        {% if site.show_sponsors == true %}<li><a href="/sponsors/">Sponsors</a></li>{% else %}<!-- Did you know: Slange is Danish for snake? -->{% endif %}
         {% if site.tickets_open == true %}<li><a href="/tickets/">Buy tickets</a></li>{% else %}<!-- Secret CFP placeholder_snake -->{% endif %}
         {% if site.tickets_open == true %}<li><a href="/call-for-proposals/">Call for proposals</a></li>{% else %}<!-- snakes_disappear_when_tickets_are_here -->{% endif %}
         {% if site.show_django_girls == true %}<li><a href="/django-girls/">Django Girls</a></li>{% else %}<!-- Maybe a link to something cool will appear here soon? -->{% endif %}
