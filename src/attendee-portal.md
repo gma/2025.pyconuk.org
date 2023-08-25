@@ -18,14 +18,14 @@ title: Attendee Portal
     <h3>Code of Conduct</h3>
     <p>
       All attendees are expected to follow the
-      <a href="https://2023.pyconuk.org/code-of-conduct/">Code of Conduct</a>
+      <a href="/code-of-conduct/">Code of Conduct</a>
     </p>
   </div>
 
   <div class="box box_yellow">
     <h3>Looking for a room?</h3>
     <p>
-      <a href="https://2023.pyconuk.org/venue/">Click here</a>
+      <a href="/venue/">Click here</a>
       for floor plans and other information about the conference venue.
     </p>
   </div>
@@ -38,7 +38,7 @@ title: Attendee Portal
     <h3>Have a Question?</h3>
     <p>
       Perhaps our
-      <a href="https://2023.pyconuk.org/faq/">FAQ</a>
+      <a href="/faq/">FAQ</a>
       will have what you are looking for
     </p>
   </div>
