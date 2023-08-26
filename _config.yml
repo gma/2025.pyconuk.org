@@ -18,6 +18,7 @@ title: "PyCon UK 2023"
 
 # Flags for when things™ happen
 cfp_open: true
+cfp_closed: true
 tickets_open: true
 schedule_ready: true
 show_sponsors: false

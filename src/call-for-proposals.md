@@ -3,7 +3,7 @@ layout: default
 title: Call for Proposals
 ---
 
-<p>{% if site.cfp_open == true %}<a href="https://pretalx.com/pyconuk-{{ site.con_year }}/cfp" target="_blank">Submit your proposal</a>{% else %}We'll publish a link here to submit your proposal when the CFP opens.{% endif %}</p>
+<p>{% if site.cfp_closed %}The CFP has now closed.{% elsif site.cfp_open == true %}<a href="https://pretalx.com/pyconuk-{{ site.con_year }}/cfp" target="_blank">Submit your proposal</a>{% else %}We'll publish a link here to submit your proposal when the CFP opens.{% endif %}</p>
 
 <p>We welcome proposals from <strong>everyone</strong>. You don't need to be an expert, or an expert speaker. Below you can find out what kind of proposals we're seeking, but if you're in any doubt whether you should submit a proposal, please see...</p>
 
@@ -12,7 +12,7 @@ title: Call for Proposals
 <div class="box box_red">
   <p>The call for proposals will close at <strong>17:00 (Europe/London)</strong> on <strong>{{ site.cfp_end }}</strong>.</p>
   <p>Selections will be made after the CFP closes.</p>
-  <p>{% if site.cfp_open == true %}<a href="https://pretalx.com/pyconuk-{{ site.con_year }}/cfp" target="_blank">Submit your proposal</a>{% else %}We'll publish a link here to submit your proposal when the CFP opens.{% endif %}</p>
+  <p>{% if site.cfp_closed %}The CFP has now closed.{% elsif site.cfp_open == true %}<a href="https://pretalx.com/pyconuk-{{ site.con_year }}/cfp" target="_blank">Submit your proposal</a>{% else %}We'll publish a link here to submit your proposal when the CFP opens.{% endif %}</p>
 </div>
 
 <a href="/call-for-proposals/proposal-submission-advice/">How to submit a more successful proposal</a>
