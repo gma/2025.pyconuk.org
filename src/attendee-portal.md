@@ -9,7 +9,7 @@ title: Attendee Portal
     <h3>What's on today?</h3>
     <p>
         The
-        <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/">schedule</a>
+        <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">schedule</a>
         has the latest information on what talks, are happening when and where.
     </p>
   </div>
