@@ -49,10 +49,6 @@ title: Attendee Portal
       Come and chat with your fellow attendees on the conference's
       <a href="https://discord.com/channels/1047085855958900776/1047085856554483784">Discord channel</a>
     </p>
-    <p>
-      Need an invite link?
-      <a href="#">Click here</a>
-    </p>
   </div>
 
 </div>
