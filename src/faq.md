@@ -29,28 +29,28 @@ title: FAQs
 </div>
 
 <div class="box box_yellow">
-  <h3>Classroom Events</h3>
+  <h3 id="classroom">Classroom Events</h3>
   <p>Listening to talks is great, but sometimes it's nice to actually get on and try to do something yourself! Come to a classroom event to learn about something and then try to put it into practise.</p>
   <p>Past highlights have included various robotics and audio workshops.</p>
 </div>
 
 <div class="box box_red">
-  <h3>Lecture Room Events</h3>
+  <h3 id="lecture">Lecture Room Events</h3>
   <p>Looking for longer talks, or ones that may have more audience participation? Head for the lecture room!</p>
 </div>
 
 <div class="box box_yellow">
-  <h3>Young Coders' Events</h3>
+  <h3 id="youngcoders">Young Coders' Events</h3>
   <p>Calling all young coders! Join us at PyCon UK for a day of Python, learning new skills and trying out exciting projects. We'll be running workshops in the morning to get to grips with coding and after lunch you'll have the opportunity to work together and create something new. At the end of the day, you'll show and tell your creations with the rest of the conference!</p>
 </div>
 
 <div class="box box_bronze">
-  <h3>Sprints</h3>
+  <h3 id="sprints">Sprints</h3>
   <p>Get involved with an open source project! You can pitch a project you're currently working on, or volunteer to help with one that is being worked on.</p>
   <p>You don't need to be a great coder for this! Projects can benefit greatly from users helping with documentation or other tasks that don't require you to be able to code a bogosort blindfolded!</p>
 </div>
 
 <div class="box box_silver">
-  <h3>Evening Social Events</h3>
+  <h3 id="eveningsocial">Evening Social Events</h3>
   <p>Stick around in the evenings to socialise with your fellow conference-goers. Aside from impromptu meetups in various pubs, there are also events held in the lower hall. Past events have included board gaming, crocheting, and live algorithmically generated music.</p>
 </div>
