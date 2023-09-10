@@ -18,7 +18,7 @@ title: Attendee Portal
     <h3>Code of Conduct</h3>
     <p>
       All attendees are expected to follow the
-      <a href="/code-of-conduct/">Code of Conduct</a>
+      <a href="/code-of-conduct/">Code of Conduct</a>.
     </p>
   </div>
 
@@ -34,12 +34,21 @@ title: Attendee Portal
 
 <div class="row">
 
+  <div class="box box_yellow">
+    <h3>What is for lunch?</h3>
+    <p>
+      The 
+      <a href="/food/">menu page</a>
+      has details on the available food and relevant dietry information.
+    </p>
+  </div>
+
   <div class="box box_red">
     <h3>Have a Question?</h3>
     <p>
       Perhaps our
       <a href="/faq/">FAQ</a>
-      will have what you are looking for
+      will have what you are looking for.
     </p>
   </div>
 
