@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: schedule
 title: Schedule
 ---
 
@@ -8,10 +8,9 @@ title: Schedule
 
 {% if site.schedule_ready == true %}
 <p>All ticket holders are entitled to join the sprints day at no additional charge.</p>
-<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a></p>
+<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a> On some screens you may need to scroll left or right to see all the tracks.</p>
 
 <script type="text/javascript" src="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/widget/v2.en.js"></script>
-<pretalx-schedule event-url="https://pretalx.com/pyconuk-{{ site.con_year }}/" locale="en" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 {% else %}
 <p>The conference will be made up of 3 days of talks and workshops from Friday - Sunday and a single day of sprints on Monday. All ticket holders are entitled to join the sprints day at no additional charge.</p>
 
