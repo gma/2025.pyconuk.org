@@ -48,7 +48,7 @@
       if (ratio1 < 100) {
         var ps = document.getElementById('pretalx-schedule');
         var style = ps.getAttribute('style');
-        ps.setAttribute('style', style + 'transform: translateX(-' + ratio2 +'%) scaleX('+ ratio1 +'%) transform: translateY(-' + ratio2 +'%) scaleY('+ ratio1 +'%);');
+        ps.setAttribute('style', style + 'transform: translateX(-' + ratio2 +'%) scaleX('+ ratio1 +'%) translateY(-' + ratio2 +'%) scaleY('+ ratio1 +'%);');
         rescale_done = true;
       }
     }
