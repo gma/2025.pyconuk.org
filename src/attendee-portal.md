@@ -39,7 +39,7 @@ title: Attendee Portal
     <p>
       The 
       <a href="/food/">menu page</a>
-      has details on the available food and relevant dietry information.
+      has details on the available food and relevant dietary information.
     </p>
   </div>
 
