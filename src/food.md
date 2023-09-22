@@ -5,6 +5,8 @@ title: Food! (and dietary issues)
 
 <p>Please see the dietary statuses below. If you have any questions about ingredients, whether as noted below or otherwise, please ask a member of the serving staff.</p>
 
+<p>Our menu options are selected to cater for as many dietary requirements as possible. However, a number of vegan and gluten free options will also be kept separate; please ask serving staff if you require them.</p>
+
 <p><strong>Please note that all food is prepared in the same kitchen so cross-contamination is a possibility.</strong></p>
 
 <table class="table">
