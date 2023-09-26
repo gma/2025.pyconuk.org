@@ -10,9 +10,11 @@ We couldn't run the conference without the generous support of our sponsors.
 In return, we will ensure that your company is given exposure before, during, and after the conference, and we will work with you so that you get exactly what you're looking for out of sponsoring the conference.
 
 If you are interested in sponsoring the conference, please [contact us](/contact/).
-We will publish details of our sponsorship packages soon.
+[Full details of our sponsorship packages are now available.](/sponsor-prospectus/)
 
 [Practical information for sponsors](/information-for-sponsors/)
+
+[Sponsorship prospectus](/sponsor-prospectus/)
 
 <figure>
   <img

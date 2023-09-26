@@ -2,3 +2,14 @@ Sponsor logos go here.
 
 Try to keep the size down to about 20K if possible, by resizing and using tools like optipng.
 Also, try to keep the image resolution close to that used in the sponsors page.
+
+Width should be scaled relative to height to keep the aspect ratio.
+Heights should be:
+Headliner: 180
+Gold: 160
+Silver: 150
+Bronze: 140
+
+Examples:
+Resize with imagemagick for a silver sponsor (height 150):
+convert -resize 300X150  source.png dest.jpg
