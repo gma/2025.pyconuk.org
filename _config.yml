@@ -30,6 +30,8 @@ con_start: Friday 20th September
 con_finish: Tuesday 24th September
 con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
 cfp_end: Someday Nth Somemonth
+django_girls_date: Someday Nth Somemonth
+young_coders_date: Someday Nth Somemonth
 
 con_location: Cardiff City Hall
 con_director: TBA
