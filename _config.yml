@@ -17,12 +17,12 @@
 title: "PyCon UK 2024"
 
 # Flags for when things™ happen
-cfp_open: true
-cfp_closed: true
-tickets_open: true
-schedule_ready: true
+cfp_open: false
+cfp_closed: false
+tickets_open: false
+schedule_ready: false
 show_sponsors: false
-show_django_girls: true
+show_django_girls: false
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.
 con_year: 2024
@@ -32,7 +32,7 @@ con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemo
 cfp_end: Someday Nth Somemonth
 
 con_location: Cardiff City Hall
-con_director: Ann Barr
+con_director: TBA
 
 con_vat_number: GB431251341
 # Don't forget to update the invoicing page if the con_company changes
