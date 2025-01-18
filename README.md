@@ -20,7 +20,7 @@ These are:
 * [GCC](https://gcc.gnu.org/install/)
 * [Make](https://www.gnu.org/software/make/)
 
-On Ubuntu 20.04 this can be achieved by: sudo apt-get install -y ruby ruby-dev gcc make
+On Ubuntu 20.04 this can be achieved by: sudo apt-get install -y ruby ruby-dev gcc make build-essential
 
 You can check if you have these installed by typing `<command> -v` in your terminal.
 If the program is available on your system then you should see the version of the program that is installed outputted in your terminal.

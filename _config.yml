@@ -46,7 +46,7 @@ url: "https://2024.pyconuk.org" # the base hostname & protocol for your site, e.
 
 # Build settings
 source: src
-destination: build
+destination: _site
 markdown: kramdown
 
 sass:
