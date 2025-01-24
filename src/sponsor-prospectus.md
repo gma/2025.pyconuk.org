@@ -78,7 +78,7 @@ layout: default
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">Stand in Marble Hall</th>
+        <th scope="row">Stand in the Main Area</th>
         <td>Large</td>
         <td>Large</td>
         <td>Standard</td>

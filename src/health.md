@@ -9,7 +9,7 @@ title: Public Health Policy
 
 <p>We will offer full refunds to attendees who are unable to attend the conference.</p>
 
-<p>There are currently no legal requirements to wear face-masks at events such conferences in England or Wales, you may wish to consider wearing, and you may be asked to wear a face covering in other places.</p>
+<p>There are currently no legal requirements to wear face-masks at events such conferences in England, you may wish to consider wearing, and you may be asked to wear a face covering in other places.</p>
 
 <p>Please be respectful of other people’s choices, whether they choose to wear a face covering or not.</p>
 

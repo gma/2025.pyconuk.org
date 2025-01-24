@@ -43,7 +43,7 @@ title: Information for sponsors
 </div>
 
 <div class="box box_yellow">
-  <h3>Sponsorship stands in the marble hall</h3>
+  <h3>Sponsorship stands</h3>
   <figure>
     <img
       src="/images/sponsors_1x.jpg"
