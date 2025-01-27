@@ -77,7 +77,7 @@ We have provision for people with hearing, vision and mobility requirements.
   <h3>Hearing support</h3>
 
   <p>
-    Talks in the main hall will feature simultaneous speech-to-text transcription.
+    Talks in the main auditorium will feature simultaneous speech-to-text transcription.
   </p>
 
   <p>
@@ -134,7 +134,7 @@ We have provision for people with hearing, vision and mobility requirements.
     <img src="/images/quiet_room_1x.jpg" srcset="/images/quiet_room_1x.jpg 1x, /images/quiet_room_2x.jpg 2x" alt="Looking towards the centre of a circular room with raked seating.">
     <figcaption>
       The quiet room is a place to relax and unwind away from the conference.
-      Photo by <a href="https://www.flickr.com/photos/152472562@N06/26211372859/">Mark Hawkins</a>, CC BY.
+      Photo from the 2017 conference in Cardiff by <a href="https://www.flickr.com/photos/152472562@N06/26211372859/">Mark Hawkins</a>, CC BY.
     </figcaption>
   </figure>
 
@@ -146,10 +146,6 @@ We have provision for people with hearing, vision and mobility requirements.
 
   <p>
     This room is intended to be a calm and quiet place for anyone who needs to have a break from the bustle of the conference, and will not be used for socialising.
-  </p>
-
-  <p>
-    Note: there are steps to access the quiet room.
   </p>
 </div>
 

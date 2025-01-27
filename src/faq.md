@@ -52,5 +52,5 @@ title: FAQs
 
 <div class="box box_silver">
   <h3 id="eveningsocial">Evening Social Events</h3>
-  <p>Stick around in the evenings to socialise with your fellow conference-goers. Aside from impromptu meetups in various pubs, there are also events held in the lower hall. Past events have included board gaming, crocheting, and live algorithmically generated music.</p>
+  <p>Stick around in the evenings to socialise with your fellow conference-goers. Aside from impromptu meetups in various pubs, there are also events held within the venue. Past events have included board gaming, crocheting, and live algorithmically generated music.</p>
 </div>
