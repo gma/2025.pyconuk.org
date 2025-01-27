@@ -3,7 +3,7 @@ layout: default
 title: Sponsorship
 ---
 
-{% if site.schedule_ready == true %}
+{% if site. spons_prosp_avail == true %}
 
 **Sponsoring PyCon UK is a great way for your company to support the Python community, promote your products to several hundred delegates, and meet Python developers who are looking for work.**
 
@@ -23,7 +23,7 @@ If you are interested in sponsoring the conference, please [contact us](/contact
 community, promote your company and meet Python developers.**
 
 If you are interested in sponsoring the conference, please contact {{
-"pyconuk@uk.python.org" | create_mailto_link }}.
+"sponsorship@uk.python.org" | create_mailto_link }}.
 
 More information, including a sponsorship prospectus ***coming soon***.
 
