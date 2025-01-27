@@ -20,9 +20,12 @@ If you are interested in sponsoring the conference, please [contact us](/contact
 {% else %}
 
 **Sponsoring PyCon UK is a great way for your company to support the Python
-community, promote your comany and meet Python experiences Python developers.**
+community, promote your company and meet Python developers.**
 
-More information, incuding a sponsorship prospectus, ***coming soon***.
+If you are interested in sponsoring the conference, please contact {{
+"pyconuk@uk.python.org" | create_mailto_link }}.
+
+More information, including a sponsorship prospectus ***coming soon***.
 
 {% endif %}
 
