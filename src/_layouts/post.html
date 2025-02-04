@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <main>
+      <div id="main_inner">
+        {% if page.title %}
+        <h2>{{ page.title }}</h2>
+        {% endif %}
+
+        <em>{{page.date | date: "%-d %b %Y"}}</em>
+
+        {{ content }}
+        <hr>
+        <a href="/blog">Back to the blogs</a>
+      </div>
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+</html>
