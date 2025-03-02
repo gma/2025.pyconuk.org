@@ -26,10 +26,10 @@ title: Call for Proposals
     </figcaption>
   </figure>
 
-  <h3>Main Stage Events</h3>
-  <p><strong>Speak to the wonderful PyCon UK audience!</strong></p>
-  <p>Stand on our stage in Space 1 with full audio and video facilities, a large projector screen and speech to text translators transcribing every you word you say.</p>
-  <p>You can use the lectern, a wireless microphone or even go full 'Maria Carey' with an inobtrusive headset. If you need anything else, just let us know and our wonderful AV team will swing into action.</p> 
+  <p>A projector is available in all rooms.</p>
+
+  <h3>Submit a talk proposal</h3>
+  <p><strong>Speak on our main stage</strong></p> 
   <p>All sessions on the main stage are 30 minutes long and are recorded and uploaded to our YouTube channel.</p>
 </div>
 
@@ -38,10 +38,8 @@ title: Call for Proposals
     <img src="/images/workshop.jpg" alt="Two people can be seen sitting at desks, intent upon their laptops as they work on the workshop in Cardiff City Hall. A large screen shows information pertaining to the workshop.">
   </figure>
 
-  <h3>Classroom Events</h3>
-  <p><strong>Share something you know!</strong></p>
-  <p>We have Space 3 set up classroom-style, with rows of tables facing the front, and capacity for about 50 people.  The room has a projector and screen available.</p>
-  <p>You could lead a workshop, run a tutorial, host a discussion or anything else you think our community might enjoy.</p>
+  <h3>Submit a proposal for an in-depth talk</h3>
+  <p><strong>Explore a topic more deeply with a smaller audience (max. 60 people)</strong></p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
@@ -49,10 +47,8 @@ title: Call for Proposals
   <figure>
     <img src="/images/room_d.jpg" alt="A person talking to an audience in Cardiff City Hall with a projector screen behind them a flipchart to their right.">
   </figure>
-  <h3>Lecture Room Events</h3>
-  <p><strong>Go a little deeper!</strong></p>
-  <p>Our lecture room in Space 2 has a projector and screen and is configured in theatre style with rows of seats for an audience of up to 60 people.</p>
-  <p>You could give a longer, more in-depth talk than a main stage event would permit and build in far more audience participation.</p>
+  <h3>Submit a proposal for an interactive workshop or collaborative session</h3>
+  <p><strong>Max. 50 people, in a classroom-style set-up</strong></p>
   <p>Sessions are 90 minutes long and are not recorded.</p>
 </div>
 
