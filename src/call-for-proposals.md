@@ -10,7 +10,7 @@ title: Call for Proposals
 <a href="/call-for-proposals/why-you-should-submit-proposal/">Why you should submit a proposal</a>
 
 <div class="box box_red">
-  <p>The call for proposals will close at <strong>17:00 (Europe/London)</strong> on <strong>{{ site.cfp_end }}</strong>.</p>
+  <p>The call for proposals will close at <strong>23:59 (Europe/London)</strong> on <strong>{{ site.cfp_end }}</strong>.</p>
   <p>Selections will be made after the CFP closes.</p>
   <p>{% if site.cfp_closed %}The CFP has now closed.{% elsif site.cfp_open == true %}<a href="https://pretalx.com/pyconuk-{{ site.con_year }}/cfp" target="_blank">Submit your proposal</a>{% else %}We'll publish a link here to submit your proposal when the CFP opens.{% endif %}</p>
 </div>
@@ -54,8 +54,10 @@ title: Call for Proposals
 
 <div class="box box_yellow">
   <h3>Young Coders' Events</h3>
-  <p><strong>Help young coders (aimed at ages 8 - 16) learn and make something!</strong></p>
+  <p><strong>Inspire the next generation (aimed at ages 8 - 16) and help shape the future of coding!</strong></p>
   <p>We have Space 4 set up classroom style, with capacity for around 20 young coders (plus their guardians) and a projector and screen.</p>
-  <p>You could share something with the next generation of coders. Help them find something to enjoy, and they can even show it off to the rest of the conference!</p>
-  <p>Sessions are 60 minutes long and are not recorded.</p>
+  <p>Are you a developer, educator, or just love tech? Guide young minds in an exciting hands-on session - whether it’s coding a simple game, bringing robots to life, creating an interactive website or hacking on fun puzzles and challenges.</p>
+  <p><strong>Let them shine!</strong></p>
+  <p>At the end, participants can show off their creations to the rest of the conference—because every coder deserves a moment in the spotlight!</p>
+  <p>Sessions are 45 minutes long and are not recorded.</p>
 </div>
