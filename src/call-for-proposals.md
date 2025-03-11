@@ -58,8 +58,6 @@ title: Call for Proposals
   <p>We have Space 4 set up classroom style, with capacity for around 20 young coders (plus their guardians) and a projector and screen.</p>
   <p>Are you a developer, educator, or just love tech? Guide young minds in an exciting hands-on session - whether it’s coding a simple game, bringing robots to life, creating an interactive website or hacking on fun puzzles and challenges.</p>
   <p><strong>Let them shine!</strong></p>
-  <p>
-  At the end, participants can show off their creations to the rest of the conference—because every coder deserves a moment in the spotlight!
-  </p>
+  <p>At the end, participants can show off their creations to the rest of the conference—because every coder deserves a moment in the spotlight!</p>
   <p>Sessions are 45 minutes long and are not recorded.</p>
 </div>
