@@ -3,7 +3,7 @@ layout: default
 title: Financial Assistance
 ---
 
-<p><strong>Please note that financial aid applications are not yet open.</strong></p>
+<p><strong>Please note that financial aid applications have now closed.</strong></p>
 
 PyCon UK is pleased to offer grants for those who might otherwise not be able to attend.
 
@@ -42,9 +42,9 @@ Our selection process will take into account:
 
 ## How to apply
 
-<p><strong>Financial aid applications are not yet open.</strong></p>
+<p><strong>Financial aid applications are now closed.</strong></p>
 
-Opportunity grant applications will close on {{ site.con_financial_assistance_deadline }} {{ site.con_year }}.
+Opportunity grant applications closed on {{ site.con_financial_assistance_deadline }} {{ site.con_year }}.
 
 You can apply for 3 types of grant:
 
