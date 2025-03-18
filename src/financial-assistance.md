@@ -2,7 +2,7 @@
 layout: default
 title: Financial Assistance
 ---
-<p><strong>{% if site.fin_aid_closed %}Please note that financial aid applications have now closed.{% elsif site.fin_aid_open == true %}<a href="https://docs.google.com/forms/d/e/1FAIpQLSf-bVdyQQGythRcqFlu2g7_Kk6cKzF5Xlso848RGOCdHM3Txw/viewform" target="_blank">Submit your application</a>{% else %}Please note that financial aid applications are not yet open.{% endif %}</strong></p>
+<p><strong>{% if site.fin_aid_closed %}Please note that financial aid applications have now closed.{% elsif site.fin_aid_open == true %}{{fin_aid_form_url}}{% else %}Please note that financial aid applications are not yet open.{% endif %}</strong></p>
 PyCon UK is pleased to offer grants for those who might otherwise not be able to attend.
 
 ## Contributions
@@ -40,7 +40,7 @@ Our selection process will take into account:
 
 ## How to apply
 
-<p><strong>{% if site.fin_aid_closed %}Financial aid applications have now closed.{% elsif site.fin_aid_open == true %}<a href="https://docs.google.com/forms/d/e/1FAIpQLSf-bVdyQQGythRcqFlu2g7_Kk6cKzF5Xlso848RGOCdHM3Txw/viewform" target="_blank">Submit your application</a>{% else %}Financial aid applications are not yet open.{% endif %}</strong></p>
+<p><strong>{% if site.fin_aid_closed %}Financial aid applications have now closed.{% elsif site.fin_aid_open == true %}{{site.fin_aid_form_url}}{% else %}Financial aid applications are not yet open.{% endif %}</strong></p>
 
 Opportunity grant applications will close on {{ site.con_financial_assistance_deadline }} {{ site.con_year }}.
 

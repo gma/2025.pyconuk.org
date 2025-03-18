@@ -19,7 +19,7 @@ title: "PyCon UK 2025"
 # Flags for when things™ happen
 cfp_open: true
 cfp_closed: false
-fin_aid_open: false
+fin_aid_open: true
 fin_aid_closed: false
 spons_prosp_avail: true
 tickets_open: false
@@ -46,6 +46,7 @@ ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2025.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
+fin_aid_form_url: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlhrxTcsUp6qBkTwvGKVqDsZfG3lG0H0-fiZG3N0HrTP_rKA/viewform" target="_blank">Submit your application</a>
 
 # Build settings
 source: src
