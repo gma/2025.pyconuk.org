@@ -46,8 +46,7 @@ ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2025.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
-fin_aid_form_url: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlhrxTcsUp6qBkTwvGKVqDsZfG3lG0H0-fiZG3N0HrTP_rKA/viewform" target="_blank">Submit your application</a>
-
+fin_aid_form_url: https://forms.gle/DQdn1VJaG1z76LJw6
 # Build settings
 source: src
 destination: _site
