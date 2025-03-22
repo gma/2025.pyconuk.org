@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+plugins:
+  - jekyll-redirect-from
+
 title: "PyCon UK 2025"
 
 # Flags for when things™ happen
