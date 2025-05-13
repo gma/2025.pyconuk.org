@@ -21,7 +21,7 @@ title: "PyCon UK 2025"
 
 # Flags for when things™ happen
 cfp_open: true
-cfp_closed: false
+cfp_closed: true
 fin_aid_open: true
 fin_aid_closed: false
 spons_prosp_avail: true
