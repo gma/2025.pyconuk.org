@@ -15,7 +15,7 @@ In return, we will ensure that your company is given exposure before, during, an
 
 If you are interested in sponsoring the conference, please contact {{"sponsorship@uk.python.org" | create_mailto_link }}.
 
-There are various sponsorship packages available. For full details, you can find <a target="_blank" href="/downloads/PyCon-UK-Brochure-small.pdf">a copy of our sponsorship brochure here</a>
+There are various sponsorship packages available. For full details, you can find <a target="_blank" href="/downloads/PyCon-UK-2025-Brochure.pdf">a copy of our sponsorship brochure here</a>
 
 
 ## Why sponsor PyCon UK?
