@@ -5,17 +5,14 @@ title: Venue
 
 {% assign links = site.data.links.html.long %}
 
-This year's conference is being held at {{ links.contactmcr }} in Manchester.
+This year's conference is being held at {{ links.contactmcr }} in Manchester. It's on the south side of the city, close to Manchester University, with good [public transport links](https://contactmcr.com/visit/getting-here) close by.
 
-Our venue is on the south side of the city, close to Manchester University, with good [public transport links](https://contactmcr.com/visit/getting-here) close by.
+
+### Access
 
 The site has accessible toilets, baby changing facilities, a lift to all floors, and great coffee.
 
-Parking isn't generally available, but parking for disabled visitors can be arranged in advance (see below).
-
-### Disabled parking
-
-We can provide parking at the venue for attendees with access needs. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/)
+Parking isn't generally available, but parking for disabled visitors can be arranged in advance. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/).
 
 ## Accommodation
 
