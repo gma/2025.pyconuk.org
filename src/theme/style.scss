@@ -41,13 +41,33 @@ main {
     page-break-after: none;
   }
 
-  h1, h2, h3, h4, h5 {
+  h1, h2, h3, h4, h5, .button {
     font-family: Raleway;
   }
 }
 
 a {
   @include link_styles($darkblue, 0.3);
+}
+
+.button {
+  border-radius: 2px;
+  padding: $default-padding / 2 $default-padding;
+
+  background: darken($darkblue, 10%);
+  color: white;
+
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    background: $darkblue;
+  }
+
+  &.block {
+    display: inline-block;
+    margin-bottom: $default-padding;
+  }
 }
 
 .dot_list {
