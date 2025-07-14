@@ -21,7 +21,7 @@ We can provide parking at the venue for attendees with access needs. If this is 
 
 Before choosing a place to stay, it's worth bearing in mind how far it is from the venue and (if you think you might go) to the city centre.
 
-Most places are walkable from the venue if you don't mind a 20-30 minute walk, but you can also use taxis, buses, or hop on a "Beryl bike" (Manchester's bike hire scheme).
+Most hotels are within a 20-30 minute walk, but you can also use taxis, buses, or hop on a "Beryl bike" (Manchester's bike hire scheme).
 
 ### Hotels
 
