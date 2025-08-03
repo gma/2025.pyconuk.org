@@ -46,7 +46,7 @@ con_director: Becky Smith
 con_vat_number: GB431251341
 # Don't forget to update the invoicing page if the con_company changes
 con_company: UKPA Trading Ltd. (a company registered in England and Wales <a href="https://beta.companieshouse.gov.uk/company/12254310">no.&nbsp;12254310</a>)
-ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1173471&SubsidiaryNumber=0">no.&nbsp;1173471</a>)
+ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales <a href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5101629?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5101629">no.&nbsp;1173471</a>)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2025.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
