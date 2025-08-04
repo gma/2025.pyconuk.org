@@ -8,8 +8,14 @@ title: Schedule
 
 
 {% if site.schedule_ready == true %}
+
 <p>All ticket holders are entitled to join the sprints day at no additional charge.</p>
-<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a> On some screens you may need to scroll left or right to see all the tracks.</p>
+<p>If you can't see the schedule widget, you can <a href="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/">view the schedule here.</a> On some screens you may need to scroll left or right to see all the tracks. </p>
+<p>
+    {% if site.schedule_final != true %}
+        This is a preliminary schedule and is subject to change.
+    {% endif %}
+</p>
 
 <script type="text/javascript" src="https://pretalx.com/pyconuk-{{ site.con_year }}/schedule/widget/v2.en.js"></script>
 {% else %}
