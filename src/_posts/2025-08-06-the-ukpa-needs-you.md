@@ -29,7 +29,7 @@ We particularly welcome applications from underrepresented groups in tech, as di
 
 #### How to Apply
 
-If you’d like to put your name forward as a trustee, send an email to [trustees@uk.python.org](mailto:trustees@uk.python.org) by **Sunday 21st August 2025**. Please include a brief overview of your background and involvement in the Python community, what skills and perspective you'd bring to the board, and your vision for the future of Python education and community building in the UK.
+If you’d like to put your name forward as a trustee, send an email to [trustees@uk.python.org](mailto:trustees@uk.python.org) by **Friday 22nd August 2025**. Please include a brief overview of your background and involvement in the Python community, what skills and perspective you'd bring to the board, and your vision for the future of Python education and community building in the UK.
 
 Your application will be acknowledged by email, and voting for new trustees will take place at the UKPA’s AGM, during the PyCon UK conference. 
 
