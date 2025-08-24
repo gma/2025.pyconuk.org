@@ -15,7 +15,7 @@ I only started to learn Python when I started to teach a course on Python at the
 
 When people tell me “I used to think programming was not for me — and now I enjoy it!” is a highlight. That’s what I want to teach programming for, to get people excited that thought they could not do it!
 
-Building my programming language Hedy of course was a big contributor to that.
+Building my programming language [Hedy](https://hedy.org/) of course was a big contributor to that.
 
 #### 3. Could you tell us about a current project or idea you’re excited about — professionally or personally?
 
