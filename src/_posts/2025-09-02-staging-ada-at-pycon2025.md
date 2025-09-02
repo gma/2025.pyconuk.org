@@ -8,7 +8,7 @@ Hi Pythonistas, we’ve got an absolute treat of a blog post for you today! Our 
 
 My first notes for _Ada_ are over a decade old. When I went back to the play earlier this year and read it again, one of my first thoughts was: it was a lot easier to think abstractly and optimistically about AI in 2014.
 
-Why did I reread it? Because after delivering a keynote speech at PyCon UK 2023 about the development of _Ada_ and the broader evolution of digital theatre, I was kindly contacted again this year to see if it would be possible to stage _Ada_ at the 2025 conference.
+Why did I reread it? Because after delivering a [keynote speech at PyCon UK 2023](https://www.youtube.com/watch?v=PeUb0D8VDWU) about the development of _Ada_ and the broader evolution of digital theatre, I was kindly contacted again this year to see if it would be possible to stage _Ada_ at the 2025 conference.
 
 After those initial thoughts and early drafts, _Ada_ was in research and development through 2015-18, with a final version published in 2019. But the cogs of funding, venues, and partners never quite turned in sync, so the play was never performed for an audience. Until now!
 
