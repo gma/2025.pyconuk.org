@@ -3,15 +3,19 @@ layout: default
 title: Guide to Manchester
 ---
 
-## Getting around
+We've put together a few tips that should help you find your way around while you're in Manchester.
 
-We've put together some advice to help you find your way around.
+- [Getting around](#getting-around)
+  - [By bus](#by-bus)
+  - [By tram](#by-tram)
+  - [By hire bike](#by-hire-bike)
+### Getting around
 
 Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
 
 [by bus]: #by-bus
 
-### By bus
+#### By bus
 
 Key things to know:
 
@@ -41,7 +45,7 @@ Note that there are a couple of **[free buses] that are useful for travelling ar
 [free buses]: https://tfgm.com/ways-to-travel/bus/free-bus
 [contactless payments]: https://tfgm.com/ways-to-pay/contactless
 
-### By tram
+#### By tram
 
 The trams don't come close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
 
@@ -53,7 +57,7 @@ TfGM have a page that documents [accessibility on the trams].
 
 [accessibility on the trams]: https://tfgm.com/accessibility/guides/tram-accessibility
 
-### By hire bike
+#### By hire bike
 
 [Manchester's hire bike scheme] is sponsored by Starling Bank, and the bikes are operated by Beryl.
 
