@@ -13,6 +13,7 @@ We've put together a few tips that should help you find your way around while yo
   - [Cafés and coffee](#cafés-and-coffee)
   - [Supermarkets](#supermarkets)
   - [Places to eat](#places-to-eat)
+  - [Bars and pubs](#bars-and-pubs)
 
 ### Getting around
 
@@ -157,3 +158,115 @@ But to give you some ideas:
 
 [corridor restaurants]: https://oxfordroadcorridor.com/place/food-and-drink-on-oxford-road/
 [Mackie Mayor]: https://mackie-mayor.restaurants-world.com/
+
+#### Bars and pubs
+
+There are a lot of places to go for a chat/drink. Where do you start?!
+
+Bear in mind that Manchester University's new intake of **students will be arriving back in the city over the weekend**, so places near the University might be busier than usual. We've organised our suggestions together according to how far from the venue (and University) they are.
+
+**If places are too busy and you need to relocate**, these sites will help you find somewhere suitable:
+
+- Oxford Road Corridor have a [big list of bars near Oxford Road][corridor bars]
+- [Tap Tourist] is a guide to Manchester's craft beer (including a list of the [city's breweries], many of which have large tap rooms, and [places serving gluten free beer][gf craft beer])
+
+[corridor bars]: https://oxfordroadcorridor.com/place/food-and-drink-on-oxford-road/bars-and-pubs-on-oxford-road/
+[Tap Tourist]: https://taptourist.co.uk/
+[city's breweries]: https://taptourist.co.uk/collections/manchester-craft-beer-breweries
+[gf craft beer]: https://taptourist.co.uk/manchester-gluten-free-beer
+
+**Here are our suggestions** around the venue and Oxford Road (times in brackets will give you a feel for how far these places are from the venue).
+
+**Close to Contact Theatre** (and the University) you'll find:
+
+- [Big Hands] is right next to Contact Theatre. It's popular with local musicians and gig-goers, so gets busy after a gig at Manchester Academy. ([map][big hands map], 2 minute walk)
+
+- [Kro BAR] is also very close, has **more room, and [serve food][kro menu]**. ([map][kro map], 3 minute walk)
+
+- [The Salutation] is a decent size, and is run in partnership with Bollington Brewing co, who [make decent beer]. The Salutation is re-opening the night before the conference, just in time for the return of the MMU students! Could be busy… ([map][salutation map], 14 minute walk)
+
+- [Sandbar] have an excellent choice of beers and whiskies, and serve decent pizza. It's popular with local academics and students, and has a good atmosphere. If it's too busy, try [The Deaf Institute] over the road. ([map][sandbar map], 14 minute walk)
+
+[Big Hands]: https://oxfordroadcorridor.com/venues/big-hands/
+[big hands map]: https://maps.app.goo.gl/eNCNwpW22P6BgjxR7
+
+[Kro BAR]: https://www.kro.co.uk/
+[kro menu]: https://www.kro.co.uk/menu.htm
+[kro map]: https://maps.app.goo.gl/PugDxDEv4kR1t9Jz9
+
+[The Salutation]: https://www.thesalutationpub.com/
+[make decent beer]: https://bollingtonbrewing.co.uk/beers/
+[salutation map]: https://maps.app.goo.gl/TbqY8ch6bfiqS5Lj6
+
+[Sandbar]: https://oxfordroadcorridor.com/venues/sandbar/
+[sandbar map]: https://maps.app.goo.gl/PKkpzxfc2imawmZt6
+
+[The Deaf Institute]: https://oxfordroadcorridor.com/venues/the-deaf-institute/
+
+**Slightly further towards the centre:**
+
+- [North Bar] is a modern bar just off Oxford Road. An on-site restaurant called **Koto serve food** (see [menu][koto menu]). ([map][north bar map], 18 minute walk)
+
+- [Lass O'Gowrie] is an old brick building on the banks of the River Medlock, halfway between Oxford Road and Piccadilly stations. It's known for its old tiles and fittings, and Guinness. They also do guest beers and **[serve food][lass o-gowrie menu]**. ([map][lass o-gowrie map], 20 minute walk)
+
+- [YES bar] is next door to the Lass O'Gowrie. There's a bar on the ground floor (where you can get some **substantial bar snacks**) with music venues on other floors. They've got reasonably sized booths that should fit groups of 6, but it might get pretty noisy at the weekend. ([map][yes map], 20 minute walk)
+
+- [Bundobust Brewery] is slightly further north. Being a Bundobust, they also **serve food**. Open 'til 10pm on Friday/Saturday, 8pm on Sunday. ([map][bundobust map], 20 minute walk)
+
+[North Bar]: https://northbar.com/circle-square
+[koto menu]: https://koto.kitchen/
+[north bar map]: https://maps.app.goo.gl/t6pmnbc6TxPmwVK57
+
+[Lass O'Gowrie]: https://oxfordroadcorridor.com/venues/the-lass-o-gowrie/
+[lass o-gowrie menu]: https://www.greeneking.co.uk/pubs/greater-manchester/lass-o-gowrie/menu?type=main+menu
+[lass o-gowrie map]: https://maps.app.goo.gl/LHX6Z679DL7XyKda6
+
+[YES bar]: https://oxfordroadcorridor.com/venues/yes/
+[yes map]: https://maps.app.goo.gl/CoiPFQLTTcB71n5N7
+
+[Bundobust Brewery]: https://bundobust.com/locations/manchester-brewery/
+[bundobust map]: https://maps.app.goo.gl/jYwzLvWFNsssNDt69
+
+**Nearer to the city centre**, these are all worth a mention:
+
+- [The Gas Works Brewbar] is on the site of an old gas works and has a brewery on site. It's fairly spacious, they **[serve food][gas works menu]**, and you can play shuffleboard. ([map][gas works map], 25 minutes walk)
+
+[The Gas Works Brewbar]: https://gasworksbrewbar.co.uk/
+[gas works menu]: https://gasworksbrewbar.co.uk/wp-content/uploads/2024/10/Thief-Street-Menu-Gasworks-September-2024_compressed-FINAL.pdf
+[gas works map]: https://maps.app.goo.gl/ziJqW1AKgcj9BTjQA
+
+- [The Britons Protection] is a proper old pub with plenty of nooks and crannies. Dating back to 1795, there's some real history to it. It was used to recruit soldiers during the Napoleonic wars, and there are rumours that people injured in the 1819 Peterloo Massacre were treated on the bar. They've got a couple of hundred whiskeys to choose from. It's quite popular, so perhaps not ideal in the evening for large groups. ([map][bp map], 28 minute walk)
+
+- [Peveril of the Peak] (a.k.a. "the Pev") is one of Manchester's most famous pubs, and dates back to 1830. It's known for the beautiful tile-clad frontage. Inside you'll find multiple rooms, stained glass, and some bench seating. The landlady has been there over 50 years, and there's a ghost! 👻 ([map][pev map], 26 minute walk)
+
+- [City Arms] is just off St Peter's Square (so really quite central) and is a reliable choice. It's almost 200 years old, has a good atmosphere, and two rooms. There are normally several different beers on tap (including one vegan option), and around 150 gins. ([map][city arms map], 30 minute walk)
+
+[Peveril of the Peak]: https://oxfordroadcorridor.com/venues/peveril-of-the-peak/
+[pev map]: https://maps.app.goo.gl/8gWdfER6sjTL7noQ8
+
+[The Britons Protection]: https://oxfordroadcorridor.com/venues/the-britons-protection/
+[bp map]: https://maps.app.goo.gl/JDSbLi2RHe9AZ5gP8
+
+[City Arms]: https://camra.org.uk/pubs/city-arms-manchester-137676
+[city arms map]: https://maps.app.goo.gl/pA7nyhwPVysLi2dJ8
+
+**If you'd like to seek out some live music** head for the Northern Quarter. [Night and Day] and [Soup Kitchen] are good bars that usually have bands playing at the weekend. Head to [Matt & Phred's] if you prefer Jazz. And if you're in the Northern Quarter in search of a good beer, try [The Castle] or [TROF].
+
+[Night and Day]: https://nightnday.org/
+[Soup Kitchen]: https://soupmanchester.com/info/
+[Matt & Phred's]: https://mattandphreds.com/
+[The Castle]: https://thecastlehotel.info/
+[TROF]: https://trofnq.co.uk/
+
+**And finally, for the gamers**:
+
+- [NQ64] is a neon-lit bar with retro arcade games and themed cocktails. There are two, one located [in the Northern Quarter][nq64 map], another [on Peter St][nq64 peter st]. Think Mario Kart, Street Fighter, and classic pinball. Open til 3am on Friday and Saturday – what could go wrong? ([map][nq64 map])
+
+- [Pixel Bar] offers themed nights, PC and console gaming, and a fully stocked bar – ideal for a relaxed evening of gaming and geekery. In the Northern Quarter. Open til 1am. ([map][pixel map])
+
+[NQ64]: https://nq64.co.uk/manchester-northern-quarter/
+[nq64 map]: https://maps.app.goo.gl/xVNubTfnevr5vJFU8
+[nq64 peter st]: https://maps.app.goo.gl/nu4xzMY1BJRxR3gS7
+
+[Pixel Bar]: https://www.pixel-bar.co.uk/manchester
+[pixel map]: https://maps.app.goo.gl/YagCk2yVEbxhJpmo6
