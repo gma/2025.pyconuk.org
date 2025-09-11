@@ -9,6 +9,8 @@ We've put together a few tips that should help you find your way around while yo
   - [By bus](#by-bus)
   - [By tram](#by-tram)
   - [By hire bike](#by-hire-bike)
+- [Food and drink](#food-and-drink)
+  - [Cafés and coffee](#cafés-and-coffee)
 ### Getting around
 
 Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
@@ -73,3 +75,44 @@ The conference **venue is just off Oxford Road**, which is **well served by cycl
 
 [Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
 [Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
+
+### Food and drink
+
+#### Cafés and coffee
+
+In the order of increasing distance from the venue (and on the way if you're walking from some of our [suggested hotels]), we've got:
+
+- [brew] is on site at the venue, on the ground floor. They serve coffee, sandwiches, toasties, and "treats".
+- [Bold St Coffee] is a 10 minute walk north of the venue ([map][bold st map]), opens at 8am, does a decent coffee, and **laptops are welcome** (with personal workstations and charging points).
+- [Half Dozen Other] is further north up Oxford Rd, and will be enjoyed by pastry fans ([map][half dozen map])
+- Another great choice is [Federal], just a little bit further north again ([map][federal map]). They do a punchy flat white, and (if you can get a table) a good breakfast.
+
+Slightly further north (near to some the [suggested hotels]) we've also got:
+
+- [Foundation Coffee House] on Whitworth St ([map][foundation map]), which is also **laptop friendly**
+- Pollen Bakery inside the Kampus building ([map][pollen map]), which is good for dog-spotting
+
+If none of those are nearby, see [these recommendations][coffee finest] from the [Manchester's Finest].
+
+[suggested hotels]: /venue#hotels
+
+[brew]: https://contactmcr.com/visit/food-drink
+
+[Bold St Coffee]: https://boldstreetcoffee.co.uk/pages/university-green-manchester
+[bold st map]: https://maps.app.goo.gl/zcnUDNM8mbq4zt2u8
+
+[asap map]: https://maps.app.goo.gl/ffgjgpavmTSoZqZZ9
+
+[Half Dozen Other]: https://halfdozenother.co.uk/
+[half dozen map]: https://maps.app.goo.gl/M4KUN2qQ1nFCE6AW9
+
+[Federal]: https://federalcafe.co.uk/pages/oxford-road
+[federal map]: https://maps.app.goo.gl/aFL8EfvpXvhHL9DB8
+
+[Foundation Coffee House]: https://fdncoffee.com/
+[foundation map]: https://maps.app.goo.gl/tnoCUFTrk79DQKuv5
+
+[pollen map]: https://maps.app.goo.gl/wHyQ5kwFZnP91Nrs9
+
+[Manchester's Finest]: https://www.manchestersfinest.com/
+[coffee finest]: https://www.manchestersfinest.com/eating-and-drinking/cafes/best-places-manchester-coffee/
