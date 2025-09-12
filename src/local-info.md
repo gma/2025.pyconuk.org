@@ -11,6 +11,8 @@ We've put together a few tips that should help you find your way around while yo
   - [By hire bike](#by-hire-bike)
 - [Food and drink](#food-and-drink)
   - [Cafés and coffee](#cafés-and-coffee)
+  - [Supermarkets](#supermarkets)
+
 ### Getting around
 
 Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
@@ -116,3 +118,10 @@ If none of those are nearby, see [these recommendations][coffee finest] from the
 
 [Manchester's Finest]: https://www.manchestersfinest.com/
 [coffee finest]: https://www.manchestersfinest.com/eating-and-drinking/cafes/best-places-manchester-coffee/
+
+#### Supermarkets
+
+If you need anything during the conference, there are a couple of supermarkets on the other side of Oxford Road:
+
+- Sainsbury's Local ([map](https://maps.app.goo.gl/AWBBuMCF4PMgAENC7), 4 minute walk)
+- Morrisons ([map](https://maps.app.goo.gl/daxdhSmgbgWJej1w5), 5 minute walk)
