@@ -146,3 +146,14 @@ If you fancy finding somewhere to eat **during the day** and fancy a stroll, the
 [The 8th Day]: https://8thday.coop/
 [8th day cafe]: https://8thday.coop/cafe/
 [8th day map]: https://maps.app.goo.gl/Gtu3WQSHsm5e9MCA7
+
+**In the evenings**, there are *a lot* of options. Feel free to **ask for advice in the #ask-the-locals** channel on the conference Discord server, or find out where others are headed in the **#social-activities channel**.
+
+But to give you some ideas:
+
+- **Some of the bars** below **serve food** (look for "serve food" in bold)
+- Oxford Road Corridor have a [list of restaurants near Oxford Road][corridor restaurants].
+- [Mackie Mayor] is an upmarket food hall, with several different restaurants operating under one roof. With long tables and plenty of choice, it's good for bigger groups. There's a decent range of wine and beer on offer too. It's on the north side of the city (so not really walkable) but it's worth considering if you're happy to do a 25 minute journey [by bus](#by-bus) and on foot.
+
+[corridor restaurants]: https://oxfordroadcorridor.com/place/food-and-drink-on-oxford-road/
+[Mackie Mayor]: https://mackie-mayor.restaurants-world.com/
