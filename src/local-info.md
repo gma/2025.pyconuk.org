@@ -14,6 +14,10 @@ We've put together a few tips that should help you find your way around while yo
   - [Supermarkets](#supermarkets)
   - [Places to eat](#places-to-eat)
   - [Bars and pubs](#bars-and-pubs)
+- [Things to do](#things-to-do)
+  - [Museums and galleries](#museums-and-galleries)
+  - [Noteworthy libraries](#noteworthy-libraries)
+  - [Parks and green spaces](#parks-and-green-spaces)
 
 ### Getting around
 
@@ -133,7 +137,7 @@ If you need anything during the conference, there are a couple of supermarkets o
 If you fancy finding somewhere to eat **during the day** and fancy a stroll, these are fairly close to the venue:
 
 - [Manchester Museum] have a [good café] ([6 minute walk][museum map])
-- [Whitworth Art Gallery] has a [very nice café] overlooking Whitworth Park ([8 minute walk][whitworth map]), but note that there's often a queue for a table. They stop serving at 3.30pm.
+- [Whitworth Art Gallery] has a [very nice café] overlooking Whitworth Park ([8 minute walk][whitworth route]), but note that there's often a queue for a table. They stop serving at 3.30pm.
 - [The 8th Day] vegan & vegetarian shop/deli has a [Plant Based Café][8th day cafe] downstairs that's open from 11am to 3pm. There's a salad bar, and a small selection of hot meals, all cooked on site. ([14 minute walk][8th day map])
 
 [Manchester Museum]: https://www.museum.manchester.ac.uk/
@@ -142,7 +146,7 @@ If you fancy finding somewhere to eat **during the day** and fancy a stroll, the
 
 [Whitworth Art Gallery]: https://www.whitworth.manchester.ac.uk/
 [very nice café]: https://www.hospitality.manchester.ac.uk/thewhitworthcafe/
-[whitworth map]: https://maps.app.goo.gl/LaQwNakK52vkMaE66
+[whitworth route]: https://maps.app.goo.gl/LaQwNakK52vkMaE66
 
 [The 8th Day]: https://8thday.coop/
 [8th day cafe]: https://8thday.coop/cafe/
@@ -270,3 +274,73 @@ Bear in mind that Manchester University's new intake of **students will be arriv
 
 [Pixel Bar]: https://www.pixel-bar.co.uk/manchester
 [pixel map]: https://maps.app.goo.gl/YagCk2yVEbxhJpmo6
+
+### Things to do
+
+If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (see their [PDF and map][yha tour]) that takes in 24 sites of interest around the city. It includes most of the places we mention below, and **the map is a useful reference** if you don't want to do the walk.
+
+[yha tour]: https://www.yha.org.uk/sites/default/files/uploads/PDFs/Walking%20Maps%202023/227-yha-manchester-city-tour.pdf
+
+#### Museums and Galleries
+
+- [Manchester Museum] is a [6 minute walk][museum route] along Oxford Road from Contact Theatre, is free to enter, contains a huge variety of fascinating things (including live amphibians and reptiles on the 2nd floor). Open until 5pm on Friday, Saturday, and Sunday. Highly recommended, even if only for a fleeting visit to say hello to Stan the T-Rex. ([map][museum map])
+
+- [Whitworth Art Gallery] is just beyond Manchester Museum, an [8 minute walk][whitworth route] from Contact, and is also free to enter. The café itself warrants a visit, but the gallery is superb. ([map][whitworth map])
+
+- At [The Pankhurst Centre] (also just round the corner from Contact Theatre) you can visit the former home of the Pankhurst family, and learn about the story of women's fight for the right to vote. Only open on the Sunday between 11am and 4pm (last entry at 3pm), £6 admission. ([map][pankhurst map])
+
+- [Manchester Art Gallery] is in the city centre, free to enter, and open every day except Monday. They've got over 25,000 things in their collection, including many of international significance. ([map][art gallery map])
+
+- At the [Science and Industry Museum] you'll find [a replica of Baby] (the **first computer to run a program from memory**) and Stephenson's Rocket under one roof. They've got a lot of exhibits showcasing Manchester's industrial history, the textile industry, and the birth of the railways (the Liverpool to Manchester route was a world first). It's just to the west of the city centre. Entry is free (though you can book), and it closes at 5pm. ([map][sci ind map])
+
+- Explore some of our literary heritage at [Elizabeth Gaskell's House]. It's a [15 minute walk][gaskell route] from Contact Theatre. Open on the Sunday between 11am and 4.30pm (last entry at 3pm), £8.50 admission. ([map][gaskell map])
+
+[Manchester Museum]: https://www.museum.manchester.ac.uk/venue/galleries/
+[museum route]: https://maps.app.goo.gl/19oR8sAAmgetYZP79
+[museum map]: https://maps.app.goo.gl/s7aXHV9YKd8S5sGm6
+
+[whitworth map]: https://maps.app.goo.gl/52NPYLr6N6qfyfkh6
+
+[Manchester Art Gallery]: https://manchesterartgallery.org/
+[art gallery map]: https://maps.app.goo.gl/XYYqg9NMBaEgSYDBA
+
+[The Pankhurst Centre]: https://www.pankhurstmuseum.com/
+[pankhurst map]: https://maps.app.goo.gl/MiZ3KepkeN9ZeEjJ9
+
+[Science and Industry Museum]: https://www.scienceandindustrymuseum.org.uk/
+[a replica of Baby]: https://www.scienceandindustrymuseum.org.uk/whats-on/meet-baby
+[sci ind map]: https://maps.app.goo.gl/62yfdh3TGfKiHMXK9
+
+[Elizabeth Gaskell's House]: https://elizabethgaskellhouse.co.uk/
+[gaskell route]: https://maps.app.goo.gl/CoTWcsBtan7oiAjn7
+[gaskell map]: https://maps.app.goo.gl/JTvYfVPfEE3bqmC5A
+
+#### Noteworthy libraries
+
+- [John Rylands Library] is one of Europe's **finest examples of neo-Gothic architecture**. The building itself is superb, but the contents are fascinating, including contains ancient papyri, early prints, and medieval manuscripts. It was opened in 1900 as a gift to the people of Manchester. Open until 5pm on Friday and Saturday (last entry at 4.40pm). ([map][rylands map])
+
+- [Chetham's Library] and medieval building is the **oldest public library in the English-speaking world**, dating back to 1653. It’s also where Marx and Engels met! Tours include the stunning medieval buildings and atmospheric reading rooms. But you do need to [book your tour][chethams booking], which will last just over an hour. ([map][chethams map])
+
+- [Manchester Central Library] is the second largest library in the UK, and is **famous for its echoey acoustics**. The central room on the upper floor is large and circular with a high domed roof. Make a short sharp sound and it will be echoed back to you a split second later. It's a **great place to study or work**. Open until 5pm on Friday and Saturday, closed Sunday. ([map][central library map])
+
+[John Rylands Library]: https://www.library.manchester.ac.uk/rylands/visit/
+[rylands map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
+
+[Chetham's Library]: https://library.chethams.com/
+[chethams booking]: https://library.chethams.com/shows/chethams-library-tours/
+[chethams map]: https://maps.app.goo.gl/NTuE2iey8qfytxm56
+
+[Manchester Central Library]: https://loadstodo.co.uk/venue/manchester-central-library/
+[central library map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
+
+#### Parks and green spaces
+
+- [Whitworth Park] is right next to Contact Theatre, and perfect for a stroll between sessions.
+
+- Closer to the city centre, near to some of the [suggested hotels], and just north of the [Gay Village], you'll find [Sackville Gardens]. This park isn't big, but it's an **interesting spot for programmers**. The [Alan Turing memorial statue] can be found in the centre, depicting Turing sitting on a bench holding an apple.
+
+[Whitworth Park]: https://maps.app.goo.gl/PucD9yFhLePtidMU7
+
+[Sackville Gardens]: https://maps.app.goo.gl/CYGcsoLD3QJnf6u17
+[Gay Village]: https://www.visitmanchester.com/things-to-see-and-do/explore/neighbourhoods/the-village/
+[Alan Turing memorial statue]: https://en.wikipedia.org/wiki/Alan_Turing_Memorial
