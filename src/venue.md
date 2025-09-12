@@ -53,7 +53,7 @@ On the first floor you'll find:
 
 <figure class="floor-plan">
   <img src="/images/contact_first_floor.png" height="1148" width="1116" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
-  <figcaption>First Floor</figcaption>
+  <figcaption>First floor</figcaption>
 </figure>
 
 And on the Second Floor:
