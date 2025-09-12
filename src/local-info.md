@@ -12,6 +12,7 @@ We've put together a few tips that should help you find your way around while yo
 - [Food and drink](#food-and-drink)
   - [Cafés and coffee](#cafés-and-coffee)
   - [Supermarkets](#supermarkets)
+  - [Places to eat](#places-to-eat)
 
 ### Getting around
 
@@ -125,3 +126,23 @@ If you need anything during the conference, there are a couple of supermarkets o
 
 - Sainsbury's Local ([map](https://maps.app.goo.gl/AWBBuMCF4PMgAENC7), 4 minute walk)
 - Morrisons ([map](https://maps.app.goo.gl/daxdhSmgbgWJej1w5), 5 minute walk)
+
+#### Places to eat
+
+If you fancy finding somewhere to eat **during the day** and fancy a stroll, these are fairly close to the venue:
+
+- [Manchester Museum] have a [good café] ([6 minute walk][museum map])
+- [Whitworth Art Gallery] has a [very nice café] overlooking Whitworth Park ([8 minute walk][whitworth map]), but note that there's often a queue for a table. They stop serving at 3.30pm.
+- [The 8th Day] vegan & vegetarian shop/deli has a [Plant Based Café][8th day cafe] downstairs that's open from 11am to 3pm. There's a salad bar, and a small selection of hot meals, all cooked on site. ([14 minute walk][8th day map])
+
+[Manchester Museum]: https://www.museum.manchester.ac.uk/
+[good café]: https://www.museum.manchester.ac.uk/visit-us/food-and-drink-2/
+[museum map]: https://maps.app.goo.gl/3RVnXaU7AuZkdfZ1A
+
+[Whitworth Art Gallery]: https://www.whitworth.manchester.ac.uk/
+[very nice café]: https://www.hospitality.manchester.ac.uk/thewhitworthcafe/
+[whitworth map]: https://maps.app.goo.gl/LaQwNakK52vkMaE66
+
+[The 8th Day]: https://8thday.coop/
+[8th day cafe]: https://8thday.coop/cafe/
+[8th day map]: https://maps.app.goo.gl/Gtu3WQSHsm5e9MCA7
